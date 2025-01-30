@@ -1,0 +1,11 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+189020217,1111984,2,20,Thursday,17,16,28,inbound,OTHER,LINK,income,other_income,cash_deposits,3150.0,cash_197,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020218,1111984,2,21,Friday,18,49,54,inbound,OTHER,LINK,income,other_income,cash_deposits,3150.0,cash_197,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020219,1111984,2,21,Friday,19,26,33,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1350.53,1630603,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020220,1111984,2,22,Saturday,6,52,36,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1643.86,45105,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020222,1111984,2,23,Sunday,8,43,35,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1766.08,45105,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020223,1111984,2,23,Sunday,18,24,43,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1350.53,1520228,55.0,97205.74,local,local_2,laundering_schema_4,laundering_schema_4_id77,1
+189020223,1520228,2,23,Sunday,18,24,46,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1350.53,1111984,30.0,120399.12,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id77,1
+189020219,1630603,2,21,Friday,19,26,38,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1350.53,1111984,25.0,372983.66099999996,large,large_2,laundering_schema_4,laundering_schema_4_id77,1
+189020220,45105,2,22,Saturday,6,52,45,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1643.86,1111984,30.0,31612.47,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id77,1
+189020222,45105,2,23,Sunday,8,43,40,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1766.08,1111984,30.0,31612.47,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id77,1

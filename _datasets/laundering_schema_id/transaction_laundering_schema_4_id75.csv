@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+80432517,1464402,9,3,Thursday,19,3,0,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2333.87,473341,60.0,105551.954,large,large_2,laundering_schema_4,laundering_schema_4_id75,1
+80432519,47240,9,5,Saturday,23,12,37,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3660.31,473341,80.0,18312.42,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432518,473340,9,5,Saturday,12,26,45,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2409.42,473341,45.0,2612.9115139599116,local,local_1,laundering_schema_4,laundering_schema_4_id75,1
+80432514,473341,8,31,Monday,15,12,43,inbound,OTHER,LINK,income,other_income,cash_deposits,2960.0,cash_7,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432515,473341,9,1,Tuesday,15,23,23,inbound,OTHER,LINK,income,other_income,cash_deposits,2610.0,cash_27,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432516,473341,9,3,Thursday,18,24,21,inbound,OTHER,LINK,income,other_income,cash_deposits,2910.0,cash_96,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432517,473341,9,3,Thursday,19,2,55,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2333.87,1464402,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432518,473341,9,5,Saturday,12,26,42,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2409.42,473340,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1
+80432519,473341,9,5,Saturday,23,12,30,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3660.31,47240,45.0,1881.21,large,large_1,laundering_schema_4,laundering_schema_4_id75,1

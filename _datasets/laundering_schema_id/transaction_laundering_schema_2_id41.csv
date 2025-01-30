@@ -1,0 +1,20 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+217247438,1277866,5,27,Wednesday,14,54,59,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,9225.6,cryptocurrency_exchange_4,20.0,31712.45,local,local_3,laundering_schema_2,laundering_schema_2_id41,1
+217247439,1277866,5,27,Wednesday,15,45,57,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3571.23,foreign_4,20.0,31712.45,local,local_3,laundering_schema_2,laundering_schema_2_id41,1
+217247440,1277866,5,28,Thursday,0,30,59,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,5469.86,foreign_4,20.0,31712.45,local,local_3,laundering_schema_2,laundering_schema_2_id41,1
+219783174,1292949,5,25,Monday,6,27,55,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,10763.2,cryptocurrency_exchange_4,25.0,40338.756,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+219783176,1292949,5,25,Monday,7,6,56,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3604.38,foreign_4,25.0,40338.756,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+219783175,1292949,5,25,Monday,12,10,29,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2262.53,foreign_4,25.0,40338.756,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+219783177,1292949,5,26,Tuesday,13,9,26,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3917.8,foreign_4,25.0,40338.756,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+229500345,1350232,5,28,Thursday,13,44,39,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,8233.6,cryptocurrency_exchange_4,35.0,48500.55,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+229500346,1350232,5,29,Friday,0,28,20,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2377.86,foreign_4,35.0,48500.55,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+229500348,1350232,5,29,Friday,2,37,55,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2690.74,foreign_4,35.0,48500.55,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+229500347,1350232,5,29,Friday,3,15,8,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2753.32,foreign_4,35.0,48500.55,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+244797614,1439945,5,26,Tuesday,5,42,38,inbound,WIRE TRANSFER,FPS,financial_assets,cryptocurrency,sale,10664.0,cryptocurrency_exchange_4,20.0,41595.966,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+244797615,1439945,5,26,Tuesday,10,52,3,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,6091.6,foreign_4,20.0,41595.966,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+244797616,1439945,5,26,Tuesday,17,9,26,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,4465.76,foreign_4,20.0,41595.966,large,large_2,laundering_schema_2,laundering_schema_2_id41,1
+244991030,1441040,5,29,Friday,21,39,48,inbound,WIRE TRANSFER,FPS,financial_assets,cryptocurrency,sale,6398.4,cryptocurrency_exchange_4,30.0,22934.946275530212,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id41,1
+244991031,1441040,5,30,Saturday,12,6,16,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,6142.46,foreign_4,30.0,22934.946275530212,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id41,1
+127809780,751754,5,29,Friday,1,43,13,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4315.2,cryptocurrency_exchange_4,35.0,18113.097527642072,local,local_2,laundering_schema_2,laundering_schema_2_id41,1
+127809781,751754,5,29,Friday,17,9,55,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2605.69,foreign_4,35.0,18113.097527642072,local,local_2,laundering_schema_2,laundering_schema_2_id41,1
+127809782,751754,5,30,Saturday,13,12,44,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1536.9,foreign_4,35.0,18113.097527642072,local,local_2,laundering_schema_2,laundering_schema_2_id41,1

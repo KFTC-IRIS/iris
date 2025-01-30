@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+281537154,1656443,9,24,Thursday,19,9,50,inbound,WIRE TRANSFER,FPS,financial_assets,cryptocurrency,sale,3900.0,cryptocurrency_exchange_4,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537156,1656443,9,25,Friday,15,50,49,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4450.0,cryptocurrency_exchange_7,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537157,1656443,9,26,Saturday,0,42,25,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4200.0,cryptocurrency_exchange_5,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537158,1656443,9,26,Saturday,10,28,43,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,1500.0,cryptocurrency_exchange_1,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537159,1656443,9,26,Saturday,22,28,26,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,2550.0,cryptocurrency_exchange_6,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537161,1656443,9,28,Monday,9,55,51,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7942.44,1750628,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537160,1656443,9,28,Monday,10,53,49,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7661.56,1731879,30.0,7545.608,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537160,1731879,9,28,Monday,10,53,56,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7661.56,1656443,45.0,8518.95,local,local_3,laundering_schema_1,laundering_schema_1_id64,1
+281537161,1750628,9,28,Monday,9,55,56,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7942.44,1656443,60.0,1734.1019611833033,local,local_3,laundering_schema_1,laundering_schema_1_id64,1

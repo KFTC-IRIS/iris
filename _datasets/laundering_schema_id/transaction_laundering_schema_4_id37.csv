@@ -1,0 +1,11 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+305284683,1246110,4,2,Thursday,18,40,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2565.78,1795968,60.0,13919.44,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284684,1795967,4,2,Thursday,18,9,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3243.54,1795968,65.0,2003.6173137475066,large,large_2,laundering_schema_4,laundering_schema_4_id37,1
+305284673,1795968,3,29,Sunday,11,21,24,inbound,OTHER,LINK,income,other_income,cash_deposits,1680.0,cash_17,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284674,1795968,3,29,Sunday,16,37,36,inbound,OTHER,LINK,income,other_income,cash_deposits,1900.0,cash_166,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284679,1795968,3,31,Tuesday,9,26,57,inbound,OTHER,LINK,income,other_income,cash_deposits,2170.0,cash_36,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284682,1795968,4,2,Thursday,12,6,2,inbound,OTHER,LINK,income,other_income,cash_deposits,1900.0,cash_166,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284681,1795968,4,2,Thursday,17,41,33,inbound,OTHER,LINK,income,other_income,cash_deposits,2130.0,cash_139,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284684,1795968,4,2,Thursday,18,9,51,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3243.54,1795967,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284683,1795968,4,2,Thursday,18,40,4,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2565.78,1246110,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1
+305284685,1795968,4,4,Saturday,15,23,50,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3872.88,foreign_6,65.0,17159.25,local,local_3,laundering_schema_4,laundering_schema_4_id37,1

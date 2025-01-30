@@ -1,0 +1,8 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+266057566,1565310,6,15,Monday,20,6,41,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5689.4,1565311,45.0,4122.000484046974,local,local_3,laundering_schema_1,laundering_schema_1_id123,1
+266057563,1565311,6,15,Monday,3,38,41,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4350.0,cryptocurrency_exchange_7,45.0,91242.385,large,large_2,laundering_schema_1,laundering_schema_1_id123,1
+266057564,1565311,6,15,Monday,15,30,36,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,3800.0,cryptocurrency_exchange_1,45.0,91242.385,large,large_2,laundering_schema_1,laundering_schema_1_id123,1
+266057565,1565311,6,15,Monday,18,30,7,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,3800.0,cryptocurrency_exchange_10,45.0,91242.385,large,large_2,laundering_schema_1,laundering_schema_1_id123,1
+266057566,1565311,6,15,Monday,20,6,38,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5689.4,1565310,45.0,91242.385,large,large_2,laundering_schema_1,laundering_schema_1_id123,1
+266057567,1565311,6,15,Monday,20,9,40,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5065.6,805245,45.0,91242.385,large,large_2,laundering_schema_1,laundering_schema_1_id123,1
+266057567,805245,6,15,Monday,20,9,49,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5065.6,1565311,60.0,43021.121,local,local_2,laundering_schema_1,laundering_schema_1_id123,1

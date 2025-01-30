@@ -1,0 +1,9 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+244530480,1425205,6,17,Wednesday,23,41,11,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1991.11,1438378,65.0,72266.35,large,large_2,laundering_schema_4,laundering_schema_4_id129,1
+244530478,1438378,6,17,Wednesday,14,37,29,inbound,OTHER,LINK,income,other_income,cash_deposits,4380.0,cash_133,35.0,45136.13,local,local_3,laundering_schema_4,laundering_schema_4_id129,1
+244530479,1438378,6,17,Wednesday,22,31,54,inbound,OTHER,LINK,income,other_income,cash_deposits,4610.0,cash_44,35.0,45136.13,local,local_3,laundering_schema_4,laundering_schema_4_id129,1
+244530480,1438378,6,17,Wednesday,23,41,4,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1991.11,1425205,35.0,45136.13,local,local_3,laundering_schema_4,laundering_schema_4_id129,1
+244530481,1438378,6,17,Wednesday,23,53,53,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4651.79,417316,35.0,45136.13,local,local_3,laundering_schema_4,laundering_schema_4_id129,1
+244530486,1438378,6,18,Thursday,11,54,51,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2176.12,228968,35.0,45136.13,local,local_3,laundering_schema_4,laundering_schema_4_id129,1
+244530486,228968,6,18,Thursday,11,54,53,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2176.12,1438378,60.0,490771.387,local,local_1,laundering_schema_4,laundering_schema_4_id129,1
+244530481,417316,6,17,Wednesday,23,53,55,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4651.79,1438378,35.0,33081.932,local,local_1,laundering_schema_4,laundering_schema_4_id129,1

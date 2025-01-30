@@ -1,0 +1,21 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+150467338,1025048,7,8,Wednesday,2,30,0,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4611.0,884794,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+100645001,1025048,7,9,Thursday,0,13,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4205.0,592312,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262103,1025048,7,9,Thursday,17,41,32,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,5684.0,foreign_4,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262105,1025048,7,9,Thursday,18,47,8,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,850.0,cash_90,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262106,1025048,7,10,Friday,8,18,14,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,960.0,cash_90,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262107,1025048,7,11,Saturday,13,25,59,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,890.0,cash_90,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262110,1025048,7,12,Sunday,16,18,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1070.0,cash_90,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262109,1025048,7,12,Sunday,18,7,12,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,840.0,cash_90,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262163,1025048,8,12,Wednesday,10,5,19,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,880.0,cash_93,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262167,1025048,8,13,Thursday,10,3,29,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,970.0,cash_93,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262165,1025048,8,13,Thursday,13,19,54,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,970.0,cash_93,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262166,1025048,8,13,Thursday,18,33,7,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1000.0,cash_93,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262173,1025048,8,16,Sunday,7,19,18,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,950.0,cash_93,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262205,1025048,9,17,Thursday,8,48,42,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,790.0,cash_100,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262206,1025048,9,18,Friday,14,3,23,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,880.0,cash_100,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262207,1025048,9,19,Saturday,9,5,41,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,990.0,cash_100,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262209,1025048,9,20,Sunday,11,30,35,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1000.0,cash_100,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+174262210,1025048,9,20,Sunday,13,28,46,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,960.0,cash_100,40.0,46201.76,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+100645001,592312,7,9,Thursday,0,13,19,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4205.0,1025048,60.0,36414.962999999996,large,large_1,laundering_schema_5,laundering_schema_5_id70,1
+150467338,884794,7,8,Wednesday,2,29,58,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4611.0,1025048,35.0,14735.888,local,local_2,laundering_schema_5,laundering_schema_5_id70,1

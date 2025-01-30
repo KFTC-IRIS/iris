@@ -1,0 +1,27 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+206296201,1213573,9,12,Saturday,10,29,8,inbound,WIRE TRANSFER,FPS,financial_assets,cryptocurrency,sale,3252.6,cryptocurrency_exchange_3,25.0,2856.9359234408594,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id70,1
+206296202,1213573,9,12,Saturday,11,51,38,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,722.21,foreign_4,25.0,2856.9359234408594,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id70,1
+206296204,1213573,9,13,Sunday,2,33,13,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1586.49,foreign_4,25.0,2856.9359234408594,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id70,1
+206296203,1213573,9,13,Sunday,13,10,21,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,651.17,foreign_4,25.0,2856.9359234408594,large_digital,large_digital_1,laundering_schema_2,laundering_schema_2_id70,1
+206368532,1213975,9,7,Monday,5,14,11,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,1918.2,cryptocurrency_exchange_3,30.0,76971.679,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+206368533,1213975,9,7,Monday,8,53,33,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,542.74,foreign_4,30.0,76971.679,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+206368535,1213975,9,8,Tuesday,10,5,14,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,771.73,foreign_4,30.0,76971.679,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+206368534,1213975,9,8,Tuesday,15,9,24,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,488.64,foreign_4,30.0,76971.679,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+257198097,1512892,9,10,Thursday,16,41,11,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,5671.2,cryptocurrency_exchange_3,55.0,2912.208,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+257198101,1512892,9,11,Friday,1,41,5,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3581.2,foreign_4,55.0,2912.208,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+257198102,1512892,9,11,Friday,16,3,25,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1693.02,foreign_4,55.0,2912.208,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+289298813,1702115,9,12,Saturday,18,6,35,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1464.13,foreign_4,25.0,1689.163,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+289298812,1702115,9,12,Saturday,19,31,55,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,3836.4,cryptocurrency_exchange_3,25.0,1689.163,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+289298815,1702115,9,13,Sunday,8,34,9,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1355.94,foreign_4,25.0,1689.163,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+289298814,1702115,9,13,Sunday,12,1,41,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,786.16,foreign_4,25.0,1689.163,large,large_2,laundering_schema_2,laundering_schema_2_id70,1
+74672663,439321,9,7,Monday,13,51,25,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,2863.4,cryptocurrency_exchange_3,30.0,42310.08,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+74672664,439321,9,7,Monday,14,45,35,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2748.86,foreign_4,30.0,42310.08,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+84349015,496465,9,7,Monday,15,26,41,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4809.4,cryptocurrency_exchange_3,45.0,33365.31,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+84349016,496465,9,7,Monday,16,59,20,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1424.74,foreign_4,45.0,33365.31,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+84349017,496465,9,7,Monday,17,45,7,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2999.91,foreign_4,45.0,33365.31,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+116402632,684986,9,5,Saturday,3,12,9,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,1084.2,cryptocurrency_exchange_3,55.0,15715.870751093045,large,large_1,laundering_schema_2,laundering_schema_2_id70,1
+116402633,684986,9,5,Saturday,5,41,9,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,178.18,foreign_4,55.0,15715.870751093045,large,large_1,laundering_schema_2,laundering_schema_2_id70,1
+116402635,684986,9,6,Sunday,10,2,38,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,478.72,foreign_4,55.0,15715.870751093045,large,large_1,laundering_schema_2,laundering_schema_2_id70,1
+116402634,684986,9,6,Sunday,17,52,34,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,416.46,foreign_4,55.0,15715.870751093045,large,large_1,laundering_schema_2,laundering_schema_2_id70,1
+14049112,82358,9,12,Saturday,6,30,57,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,4309.0,cryptocurrency_exchange_3,40.0,46332.46,local,local_1,laundering_schema_2,laundering_schema_2_id70,1
+14049113,82358,9,12,Saturday,15,32,40,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,4179.73,foreign_4,40.0,46332.46,local,local_1,laundering_schema_2,laundering_schema_2_id70,1

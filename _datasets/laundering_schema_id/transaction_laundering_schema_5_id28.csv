@@ -1,0 +1,43 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+200064898,1176900,2,13,Thursday,7,45,25,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1512.0,757395,20.0,16830.099,local,local_2,laundering_schema_5,laundering_schema_5_id28,1
+200064899,1176900,2,13,Thursday,10,56,21,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1738.8,87051,20.0,16830.099,local,local_2,laundering_schema_5,laundering_schema_5_id28,1
+200064900,1176900,2,14,Friday,15,54,9,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1234.8,87051,20.0,16830.099,local,local_2,laundering_schema_5,laundering_schema_5_id28,1
+293292952,1240193,2,11,Tuesday,9,15,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,991.2,1725508,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+72182622,1240193,2,14,Friday,17,28,17,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,571.2,424813,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828000,1240193,2,14,Friday,19,1,44,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,110.0,cash_111,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828003,1240193,2,18,Tuesday,10,57,46,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,120.0,cash_111,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828002,1240193,2,18,Tuesday,11,45,45,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,120.0,cash_111,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828004,1240193,2,19,Wednesday,9,18,29,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,140.0,cash_111,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828009,1240193,3,21,Saturday,11,8,58,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_89,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828016,1240193,3,23,Monday,15,42,38,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,260.0,cash_89,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828030,1240193,4,23,Thursday,18,9,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,180.0,cash_178,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828034,1240193,4,27,Monday,8,56,20,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,160.0,cash_178,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+210828035,1240193,4,27,Monday,16,25,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_178,30.0,2349.53,large,large_2,laundering_schema_5,laundering_schema_5_id28,1
+293292952,1725508,2,11,Tuesday,9,15,29,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,991.2,1240193,45.0,35118.2,large_digital,large_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+72182622,424813,2,14,Friday,17,28,15,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,571.2,1240193,60.0,20028.229,large,large_1,laundering_schema_5,laundering_schema_5_id28,1
+200064898,757395,2,13,Thursday,7,45,34,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1512.0,1176900,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761126,757395,2,17,Monday,23,40,24,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,450.0,cash_111,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761141,757395,3,21,Saturday,16,49,30,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,80.0,cash_89,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761142,757395,3,22,Sunday,21,40,15,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,90.0,cash_89,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761147,757395,3,24,Tuesday,9,42,57,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,90.0,cash_89,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761146,757395,3,24,Tuesday,13,23,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,80.0,cash_89,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761145,757395,3,24,Tuesday,20,11,39,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,90.0,cash_89,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761165,757395,4,24,Friday,1,42,26,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,120.0,cash_178,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761166,757395,4,26,Sunday,12,38,7,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,100.0,cash_178,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761167,757395,4,27,Monday,19,25,50,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,110.0,cash_178,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+128761170,757395,4,28,Tuesday,10,50,20,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,120.0,cash_178,25.0,52616.909,small_digital,small_digital_1,laundering_schema_5,laundering_schema_5_id28,1
+14846497,87051,2,10,Monday,2,0,58,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,1293.6,foreign_10,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+200064899,87051,2,13,Thursday,10,56,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1738.8,1176900,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846500,87051,2,14,Friday,13,4,53,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,1066.8,foreign_10,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+200064900,87051,2,14,Friday,15,54,11,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1234.8,1176900,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846502,87051,2,15,Saturday,11,25,27,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,280.0,cash_111,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846503,87051,2,15,Saturday,17,50,56,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,320.0,cash_111,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846504,87051,2,16,Sunday,16,42,41,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,330.0,cash_111,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846505,87051,2,16,Sunday,17,44,28,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,340.0,cash_111,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846506,87051,2,18,Tuesday,17,20,18,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,350.0,cash_111,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846513,87051,3,22,Sunday,13,4,49,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,810.0,cash_89,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846516,87051,3,25,Wednesday,13,26,41,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,890.0,cash_89,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846528,87051,4,24,Friday,19,35,18,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,450.0,cash_178,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846529,87051,4,26,Sunday,8,33,5,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,410.0,cash_178,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846531,87051,4,27,Monday,23,58,40,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,350.0,cash_178,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1
+14846532,87051,4,28,Tuesday,21,2,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,420.0,cash_178,55.0,209631.427,local,local_1,laundering_schema_5,laundering_schema_5_id28,1

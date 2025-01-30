@@ -1,0 +1,12 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+274427572,1009372,8,29,Saturday,14,9,39,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2298.58,1614432,55.0,29532.476863194213,large,large_1,laundering_schema_4,laundering_schema_4_id94,1
+274427574,1009372,8,30,Sunday,15,10,58,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2110.44,1614432,55.0,29532.476863194213,large,large_1,laundering_schema_4,laundering_schema_4_id94,1
+274427565,1614432,8,26,Wednesday,12,40,53,inbound,OTHER,LINK,income,other_income,cash_deposits,2030.0,cash_60,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427570,1614432,8,28,Friday,9,46,26,inbound,OTHER,LINK,income,other_income,cash_deposits,1940.0,cash_91,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427571,1614432,8,28,Friday,18,51,4,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1832.32,foreign_1,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427569,1614432,8,28,Friday,22,0,5,inbound,OTHER,LINK,income,other_income,cash_deposits,1980.0,cash_42,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427568,1614432,8,28,Friday,23,41,3,inbound,OTHER,LINK,income,other_income,cash_deposits,2230.0,cash_155,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427573,1614432,8,29,Saturday,0,12,9,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,695.3,foreign_1,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427572,1614432,8,29,Saturday,14,9,36,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2298.58,1009372,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427575,1614432,8,30,Sunday,2,29,13,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1243.36,foreign_1,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1
+274427574,1614432,8,30,Sunday,15,10,49,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2110.44,1009372,75.0,47343.8,local,local_3,laundering_schema_4,laundering_schema_4_id94,1

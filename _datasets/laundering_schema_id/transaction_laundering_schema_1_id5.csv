@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+171164306,1006790,5,12,Tuesday,1,24,34,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,5950.0,cryptocurrency_exchange_5,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164305,1006790,5,12,Tuesday,5,21,18,inbound,OTHER,OTHER,financial_assets,cryptocurrency,sale,3450.0,cryptocurrency_exchange_7,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164314,1006790,5,14,Thursday,0,6,33,inbound,WIRE TRANSFER,FPS,financial_assets,cryptocurrency,sale,4650.0,cryptocurrency_exchange_1,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164318,1006790,5,15,Friday,11,0,55,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4409.31,79380,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164317,1006790,5,15,Friday,14,19,56,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4437.13,1350450,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164316,1006790,5,15,Friday,15,32,52,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5063.06,831720,55.0,22550.04,local,local_2,laundering_schema_1,laundering_schema_1_id5,1
+171164317,1350450,5,15,Friday,14,20,0,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4437.13,1006790,30.0,1552.0379223274592,small_digital,small_digital_1,laundering_schema_1,laundering_schema_1_id5,1
+171164318,79380,5,15,Friday,11,0,58,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4409.31,1006790,50.0,1440.5916305156916,local,local_1,laundering_schema_1,laundering_schema_1_id5,1
+171164316,831720,5,15,Friday,15,33,1,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5063.06,1006790,55.0,148295.537,large_digital,large_digital_1,laundering_schema_1,laundering_schema_1_id5,1

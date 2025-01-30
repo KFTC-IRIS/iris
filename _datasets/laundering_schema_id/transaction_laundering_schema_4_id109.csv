@@ -1,0 +1,12 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+80060492,1043072,1,9,Thursday,22,4,39,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1992.64,471161,20.0,129003.156,large,large_1,laundering_schema_4,laundering_schema_4_id109,1
+80060493,1363090,1,10,Friday,15,27,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6485.66,471161,60.0,42151.26,local,local_3,laundering_schema_4,laundering_schema_4_id109,1
+80060491,26658,1,9,Thursday,22,15,3,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1101.7,471161,55.0,318726.045,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060486,471161,1,5,Sunday,23,33,54,inbound,OTHER,LINK,income,other_income,cash_deposits,2110.0,cash_154,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060487,471161,1,6,Monday,22,52,21,inbound,OTHER,LINK,income,other_income,cash_deposits,1730.0,cash_84,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060488,471161,1,7,Tuesday,7,59,2,inbound,OTHER,LINK,income,other_income,cash_deposits,2090.0,cash_9,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060489,471161,1,8,Wednesday,17,46,50,inbound,CARD,LINK,income,other_income,cash_deposits,1780.0,cash_129,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060490,471161,1,9,Thursday,21,10,52,inbound,OTHER,LINK,income,other_income,cash_deposits,1870.0,cash_174,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060492,471161,1,9,Thursday,22,4,31,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1992.64,1043072,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060491,471161,1,9,Thursday,22,14,57,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1101.7,26658,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1
+80060493,471161,1,10,Friday,15,27,35,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6485.66,1363090,40.0,2380.25,local,local_1,laundering_schema_4,laundering_schema_4_id109,1

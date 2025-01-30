@@ -1,0 +1,17 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+202046915,1159241,4,26,Sunday,4,19,40,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,549.04,1188668,35.0,293.59549340403953,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046906,1188668,4,20,Monday,6,38,13,inbound,OTHER,LINK,income,other_income,cash_deposits,1620.0,cash_118,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046907,1188668,4,22,Wednesday,11,18,10,inbound,OTHER,LINK,income,other_income,cash_deposits,1540.0,cash_171,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046908,1188668,4,22,Wednesday,18,51,59,inbound,OTHER,LINK,income,other_income,cash_deposits,1300.0,cash_88,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046909,1188668,4,24,Friday,14,36,37,inbound,OTHER,LINK,income,other_income,cash_deposits,1470.0,cash_2,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046912,1188668,4,25,Saturday,18,41,49,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1449.48,foreign_7,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046910,1188668,4,25,Saturday,22,17,18,inbound,OTHER,LINK,income,other_income,cash_deposits,1540.0,cash_64,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046911,1188668,4,25,Saturday,23,21,13,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,278.18,853372,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046914,1188668,4,26,Sunday,3,37,45,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1368.95,1206625,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046915,1188668,4,26,Sunday,4,19,33,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,549.04,1159241,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046916,1188668,4,26,Sunday,8,50,1,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1134.69,1276150,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046917,1188668,4,26,Sunday,10,5,10,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,995.6,foreign_7,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046918,1188668,4,27,Monday,11,1,52,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1544.65,foreign_7,70.0,470.83,local,local_2,laundering_schema_4,laundering_schema_4_id30,1
+202046914,1206625,4,26,Sunday,3,37,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1368.95,1188668,45.0,63.48992797955239,local,local_3,laundering_schema_4,laundering_schema_4_id30,1
+202046916,1276150,4,26,Sunday,8,50,4,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1134.69,1188668,35.0,24091.95202094512,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id30,1
+202046911,853372,4,25,Saturday,23,21,18,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,278.18,1188668,65.0,1095.1620132217813,local,local_2,laundering_schema_4,laundering_schema_4_id30,1

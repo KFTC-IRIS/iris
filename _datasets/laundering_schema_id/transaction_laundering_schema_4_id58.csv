@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+227059790,1335886,6,24,Wednesday,21,19,23,inbound,OTHER,LINK,income,other_income,cash_deposits,3480.0,cash_84,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059793,1335886,6,27,Saturday,8,17,9,inbound,OTHER,LINK,income,other_income,cash_deposits,3310.0,cash_84,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059794,1335886,6,27,Saturday,10,26,52,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,894.04,foreign_7,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059795,1335886,6,28,Sunday,11,18,42,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1290.64,802167,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059796,1335886,6,28,Sunday,12,42,54,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1828.41,506186,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059799,1335886,6,29,Monday,5,50,30,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1283.92,foreign_7,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059798,1335886,6,29,Monday,7,33,44,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1425.09,foreign_7,55.0,31738.427,large,large_2,laundering_schema_4,laundering_schema_4_id58,1
+227059796,506186,6,28,Sunday,12,43,3,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1828.41,1335886,35.0,66938.224,large,large_1,laundering_schema_4,laundering_schema_4_id58,1
+227059795,802167,6,28,Sunday,11,18,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1290.64,1335886,80.0,9936.24,local,local_2,laundering_schema_4,laundering_schema_4_id58,1

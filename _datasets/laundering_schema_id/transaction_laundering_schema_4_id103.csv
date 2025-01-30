@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+56968065,1274712,9,10,Thursday,19,21,6,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1660.76,335371,60.0,-250.80551448488217,large,large_2,laundering_schema_4,laundering_schema_4_id103,1
+56968063,314493,9,9,Wednesday,23,13,27,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2348.21,335371,50.0,2047.2611513007528,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968059,335371,9,6,Sunday,11,14,28,inbound,OTHER,LINK,income,other_income,cash_deposits,2240.0,cash_189,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968061,335371,9,8,Tuesday,22,33,38,inbound,OTHER,LINK,income,other_income,cash_deposits,2360.0,cash_14,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968062,335371,9,9,Wednesday,22,27,45,inbound,OTHER,LINK,income,other_income,cash_deposits,2490.0,cash_63,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968063,335371,9,9,Wednesday,23,13,21,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2348.21,314493,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968064,335371,9,9,Wednesday,23,22,40,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2797.43,526598,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968065,335371,9,10,Thursday,19,21,2,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1660.76,1274712,85.0,89775.19,local,local_1,laundering_schema_4,laundering_schema_4_id103,1
+56968064,526598,9,9,Wednesday,23,22,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2797.43,335371,35.0,4345.178990660177,local,local_1,laundering_schema_4,laundering_schema_4_id103,1

@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+233928496,1078967,7,7,Tuesday,15,23,38,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1275.35,1376104,70.0,14459.19,local,local_2,laundering_schema_4,laundering_schema_4_id34,1
+233928488,1376104,7,3,Friday,12,3,13,inbound,OTHER,LINK,income,other_income,cash_deposits,2810.0,cash_145,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928495,1376104,7,6,Monday,18,2,11,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,430.0,foreign_1,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928494,1376104,7,6,Monday,18,50,3,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,566.82,foreign_1,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928493,1376104,7,6,Monday,20,23,23,inbound,OTHER,LINK,income,other_income,cash_deposits,2280.0,cash_21,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928496,1376104,7,7,Tuesday,15,23,34,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1275.35,1078967,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928498,1376104,7,7,Tuesday,17,52,32,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,982.17,foreign_1,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928497,1376104,7,7,Tuesday,20,22,28,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1632.06,1495303,55.0,9659.61,local,local_3,laundering_schema_4,laundering_schema_4_id34,1
+233928497,1495303,7,7,Tuesday,20,22,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1632.06,1376104,85.0,38760.33,large,large_2,laundering_schema_4,laundering_schema_4_id34,1

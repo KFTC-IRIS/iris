@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+88237784,1057271,3,11,Wednesday,13,0,32,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1843.83,519441,75.0,125664.85,local,local_2,laundering_schema_4,laundering_schema_4_id9,1
+88237790,519440,3,13,Friday,5,14,46,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,903.84,519441,50.0,3144.023213696322,small_digital,small_digital_2,laundering_schema_4,laundering_schema_4_id9,1
+88237775,519441,3,7,Saturday,23,38,20,inbound,OTHER,LINK,income,other_income,cash_deposits,1310.0,cash_114,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237777,519441,3,8,Sunday,23,16,1,inbound,OTHER,LINK,income,other_income,cash_deposits,1410.0,cash_102,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237783,519441,3,11,Wednesday,10,11,56,inbound,CARD,LINK,income,other_income,cash_deposits,1430.0,cash_195,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237782,519441,3,11,Wednesday,11,4,52,inbound,OTHER,LINK,income,other_income,cash_deposits,1230.0,cash_102,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237785,519441,3,11,Wednesday,11,25,46,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2422.29,foreign_4,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237784,519441,3,11,Wednesday,13,0,23,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1843.83,1057271,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1
+88237790,519441,3,13,Friday,5,14,38,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,903.84,519440,50.0,42718.57,large,large_1,laundering_schema_4,laundering_schema_4_id9,1

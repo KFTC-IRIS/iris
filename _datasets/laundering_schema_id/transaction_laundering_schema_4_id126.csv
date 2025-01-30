@@ -1,0 +1,13 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+217296862,1048547,3,29,Sunday,19,35,21,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1327.99,1278168,35.0,20090.49,local,local_2,laundering_schema_4,laundering_schema_4_id126,1
+217296858,1146768,3,28,Saturday,20,59,50,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1802.27,1278168,70.0,1687.2331732716561,local,local_2,laundering_schema_4,laundering_schema_4_id126,1
+217296849,1278168,3,25,Wednesday,21,5,36,inbound,OTHER,LINK,income,other_income,cash_deposits,4290.0,cash_147,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296860,1278168,3,28,Saturday,18,16,48,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,707.11,foreign_5,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296859,1278168,3,28,Saturday,18,25,50,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1741.91,foreign_5,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296856,1278168,3,28,Saturday,19,49,45,inbound,OTHER,LINK,income,other_income,cash_deposits,4600.0,cash_165,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296858,1278168,3,28,Saturday,20,59,44,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1802.27,1146768,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296857,1278168,3,28,Saturday,23,38,59,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1267.63,1393778,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296861,1278168,3,29,Sunday,14,23,36,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1776.4,1322578,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296862,1278168,3,29,Sunday,19,35,14,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1327.99,1048547,25.0,2127.14,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296861,1322578,3,29,Sunday,14,23,44,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1776.4,1278168,70.0,29493.312,large,large_2,laundering_schema_4,laundering_schema_4_id126,1
+217296857,1393778,3,28,Saturday,23,39,1,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1267.63,1278168,25.0,633.2825886175433,large,large_2,laundering_schema_4,laundering_schema_4_id126,1

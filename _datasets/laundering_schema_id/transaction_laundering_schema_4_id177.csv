@@ -1,0 +1,11 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+27151479,1515493,9,2,Wednesday,15,19,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1125.58,159382,55.0,135687.636,local,local_3,laundering_schema_4,laundering_schema_4_id177,1
+27151474,159382,8,30,Sunday,6,18,24,inbound,OTHER,LINK,income,other_income,cash_deposits,3340.0,cash_177,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151473,159382,8,30,Sunday,13,40,12,inbound,OTHER,LINK,income,other_income,cash_deposits,2900.0,cash_149,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151475,159382,8,31,Monday,22,7,48,inbound,OTHER,LINK,income,other_income,cash_deposits,3350.0,cash_43,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151476,159382,8,31,Monday,23,1,47,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2139.53,423616,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151478,159382,9,1,Tuesday,14,13,59,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,4660.45,foreign_5,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151477,159382,9,1,Tuesday,20,13,22,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1376.74,1788022,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151479,159382,9,2,Wednesday,15,19,1,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1125.58,1515493,50.0,60414.26,local,local_1,laundering_schema_4,laundering_schema_4_id177,1
+27151477,1788022,9,1,Tuesday,20,13,29,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1376.74,159382,55.0,108661.122,local,local_3,laundering_schema_4,laundering_schema_4_id177,1
+27151476,423616,8,31,Monday,23,1,50,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2139.53,159382,70.0,331742.88,large,large_1,laundering_schema_4,laundering_schema_4_id177,1

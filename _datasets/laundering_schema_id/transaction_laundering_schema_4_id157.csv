@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+287367353,1383230,5,5,Tuesday,18,54,8,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2878.14,1690734,35.0,42165.52,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367347,1690734,4,30,Thursday,20,11,38,inbound,OTHER,LINK,income,other_income,cash_deposits,1970.0,cash_132,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367348,1690734,5,1,Friday,18,10,50,inbound,OTHER,LINK,income,other_income,cash_deposits,1640.0,cash_177,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367349,1690734,5,2,Saturday,13,44,50,inbound,OTHER,LINK,income,other_income,cash_deposits,1660.0,cash_120,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367350,1690734,5,2,Saturday,18,17,11,inbound,OTHER,LINK,income,other_income,cash_deposits,1610.0,cash_83,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367352,1690734,5,4,Monday,17,34,37,inbound,OTHER,LINK,income,other_income,cash_deposits,1990.0,cash_154,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367353,1690734,5,5,Tuesday,18,54,5,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2878.14,1383230,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367356,1690734,5,6,Wednesday,9,24,24,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5637.06,1720026,65.0,2676.59,large,large_2,laundering_schema_4,laundering_schema_4_id157,1
+287367356,1720026,5,6,Wednesday,9,24,27,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5637.06,1690734,20.0,385.29247376370415,local,local_3,laundering_schema_4,laundering_schema_4_id157,1

@@ -1,0 +1,51 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+49403765,290849,5,14,Thursday,5,47,0,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,6800.0,foreign_4,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403766,290849,5,14,Thursday,16,40,33,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,940.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403769,290849,5,16,Saturday,19,58,58,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,780.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403772,290849,5,17,Sunday,22,14,15,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,780.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403775,290849,5,18,Monday,11,23,52,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,840.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403776,290849,5,18,Monday,14,24,5,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,760.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403774,290849,5,18,Monday,17,27,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,780.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403773,290849,5,18,Monday,21,17,15,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,890.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403781,290849,5,19,Tuesday,21,31,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,930.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403813,290849,6,16,Tuesday,12,1,5,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,6500.0,foreign_4,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403814,290849,6,16,Tuesday,14,20,40,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,610.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403816,290849,6,17,Wednesday,13,14,24,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,690.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403818,290849,6,18,Thursday,9,39,24,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,610.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403817,290849,6,18,Thursday,17,37,45,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,570.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403819,290849,6,19,Friday,15,48,20,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,660.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403822,290849,6,20,Saturday,9,11,12,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,600.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403823,290849,6,20,Saturday,18,17,16,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,600.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403826,290849,6,21,Sunday,9,37,20,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,660.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403824,290849,6,21,Sunday,16,59,52,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,600.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403825,290849,6,21,Sunday,17,13,15,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,590.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403868,290849,7,18,Saturday,15,8,51,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,6600.0,foreign_4,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403870,290849,7,18,Saturday,16,55,17,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,750.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403869,290849,7,18,Saturday,16,59,21,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,650.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403871,290849,7,19,Sunday,14,54,49,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,740.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403873,290849,7,19,Sunday,21,17,44,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,630.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403872,290849,7,19,Sunday,21,17,49,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,690.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403876,290849,7,20,Monday,10,44,31,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,760.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403877,290849,7,20,Monday,16,15,48,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,610.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403880,290849,7,21,Tuesday,6,11,26,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,700.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403882,290849,7,22,Wednesday,13,35,47,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,760.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403911,290849,8,16,Sunday,3,54,19,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,5500.0,foreign_4,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403913,290849,8,16,Sunday,8,27,2,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,670.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403912,290849,8,16,Sunday,18,55,46,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,670.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403914,290849,8,17,Monday,13,51,18,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,620.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403915,290849,8,17,Monday,21,25,1,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,630.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403917,290849,8,18,Tuesday,6,30,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,710.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403919,290849,8,20,Thursday,14,2,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,670.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403920,290849,8,20,Thursday,19,45,5,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,660.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403918,290849,8,20,Thursday,21,29,33,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,630.0,cash_40,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403967,290849,9,16,Wednesday,16,43,51,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,5400.0,foreign_4,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403971,290849,9,16,Wednesday,17,4,14,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,510.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403968,290849,9,16,Wednesday,17,10,38,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,560.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403970,290849,9,16,Wednesday,18,4,42,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,570.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403969,290849,9,16,Wednesday,21,8,14,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,580.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403977,290849,9,18,Friday,9,20,15,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,510.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403976,290849,9,18,Friday,14,43,10,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,480.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403978,290849,9,18,Friday,17,50,14,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,580.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403975,290849,9,18,Friday,20,8,6,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,490.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403981,290849,9,20,Sunday,13,32,52,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,580.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1
+49403982,290849,9,21,Monday,9,32,50,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_166,60.0,29162.916,local,local_1,laundering_schema_7,laundering_schema_7_id43,1

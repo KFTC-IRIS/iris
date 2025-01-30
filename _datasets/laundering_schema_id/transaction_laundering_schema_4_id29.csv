@@ -1,0 +1,7 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+91786525,540267,5,8,Friday,12,54,43,inbound,OTHER,LINK,income,other_income,cash_deposits,2340.0,cash_77,50.0,2205.59,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id29,1
+91786526,540267,5,8,Friday,15,13,59,inbound,OTHER,LINK,income,other_income,cash_deposits,2750.0,cash_71,50.0,2205.59,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id29,1
+91786527,540267,5,8,Friday,15,16,39,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,1758.65,foreign_1,50.0,2205.59,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id29,1
+91786529,540267,5,10,Sunday,14,18,58,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,2010.6,foreign_1,50.0,2205.59,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id29,1
+91786528,540267,5,10,Sunday,22,1,50,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1269.85,891090,50.0,2205.59,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id29,1
+91786528,891090,5,10,Sunday,22,1,59,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1269.85,540267,75.0,54826.45,local,local_2,laundering_schema_4,laundering_schema_4_id29,1

@@ -1,0 +1,12 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+70320844,413786,2,19,Wednesday,14,32,33,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,5100.0,foreign_5,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320845,413786,2,19,Wednesday,15,43,41,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,530.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320846,413786,2,20,Thursday,13,22,23,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,540.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320847,413786,2,20,Thursday,14,55,35,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,510.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320848,413786,2,21,Friday,6,33,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,490.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320851,413786,2,22,Saturday,9,24,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,470.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320850,413786,2,22,Saturday,11,2,58,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,480.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320852,413786,2,22,Saturday,15,13,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,410.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320853,413786,2,22,Saturday,17,36,38,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320854,413786,2,23,Sunday,11,9,10,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,420.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1
+70320856,413786,2,24,Monday,13,0,27,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,440.0,cash_52,40.0,3742.928,large_digital,large_digital_1,laundering_schema_7,laundering_schema_7_id129,1

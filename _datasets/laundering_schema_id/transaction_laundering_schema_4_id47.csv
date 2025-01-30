@@ -1,0 +1,5 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+81060139,1708137,1,24,Friday,19,33,52,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7286.4,477032,50.0,48893.08,large_digital,large_digital_1,laundering_schema_4,laundering_schema_4_id47,1
+81060137,477032,1,19,Sunday,23,28,26,inbound,OTHER,LINK,income,other_income,cash_deposits,4210.0,cash_122,30.0,93870.672,local,local_1,laundering_schema_4,laundering_schema_4_id47,1
+81060138,477032,1,23,Thursday,20,28,45,inbound,OTHER,LINK,income,other_income,cash_deposits,3380.0,cash_127,30.0,93870.672,local,local_1,laundering_schema_4,laundering_schema_4_id47,1
+81060139,477032,1,24,Friday,19,33,43,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7286.4,1708137,30.0,93870.672,local,local_1,laundering_schema_4,laundering_schema_4_id47,1

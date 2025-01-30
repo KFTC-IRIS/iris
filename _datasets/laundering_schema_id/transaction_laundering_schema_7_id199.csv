@@ -1,0 +1,11 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+173362568,1019831,2,11,Tuesday,7,33,48,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,6600.0,foreign_2,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362569,1019831,2,11,Tuesday,9,53,12,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,650.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362570,1019831,2,13,Thursday,8,0,35,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,720.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362572,1019831,2,14,Friday,4,59,18,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,800.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362571,1019831,2,14,Friday,21,29,14,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,740.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362574,1019831,2,15,Saturday,17,55,45,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,640.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362573,1019831,2,15,Saturday,21,43,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,660.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362577,1019831,2,16,Sunday,9,54,16,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,650.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362575,1019831,2,16,Sunday,9,58,47,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,770.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1
+173362576,1019831,2,16,Sunday,18,19,6,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,730.0,cash_40,75.0,19469.69,local,local_2,laundering_schema_7,laundering_schema_7_id199,1

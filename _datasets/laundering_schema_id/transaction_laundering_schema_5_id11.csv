@@ -1,0 +1,21 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+190313598,1119580,6,30,Tuesday,11,10,0,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5600.7,1144898,30.0,6645.1359999999995,large,large_1,laundering_schema_5,laundering_schema_5_id11,1
+191616396,1127191,7,1,Wednesday,9,25,29,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2631.3,1144898,60.0,3263.83,large,large_1,laundering_schema_5,laundering_schema_5_id11,1
+190313598,1144898,6,30,Tuesday,11,10,6,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5600.7,1119580,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637930,1144898,7,1,Wednesday,2,36,31,inbound,FOREIGN WIRE TRANSFER,CHAPS,income,other_income,other_uncategorized_income,6468.0,foreign_4,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+191616396,1144898,7,1,Wednesday,9,25,33,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2631.3,1127191,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637932,1144898,7,3,Friday,21,16,37,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,870.0,cash_145,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637934,1144898,7,4,Saturday,16,39,56,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,840.0,cash_145,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637935,1144898,7,4,Saturday,20,57,47,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,950.0,cash_145,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637936,1144898,7,5,Sunday,14,15,54,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,900.0,cash_145,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637937,1144898,7,6,Monday,20,53,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,970.0,cash_145,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637944,1144898,8,5,Wednesday,10,43,54,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,980.0,cash_127,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637943,1144898,8,5,Wednesday,13,36,59,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,990.0,cash_127,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637945,1144898,8,5,Wednesday,18,32,0,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,840.0,cash_127,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637946,1144898,8,6,Thursday,20,14,12,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,850.0,cash_127,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637948,1144898,8,7,Friday,17,15,1,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1010.0,cash_127,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637953,1144898,9,6,Sunday,8,37,54,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,850.0,cash_48,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637958,1144898,9,8,Tuesday,8,27,56,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,950.0,cash_48,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637959,1144898,9,8,Tuesday,11,37,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1010.0,cash_48,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637960,1144898,9,8,Tuesday,22,42,23,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1000.0,cash_48,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1
+194637961,1144898,9,11,Friday,18,38,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,880.0,cash_48,35.0,6125.39,local,local_2,laundering_schema_5,laundering_schema_5_id11,1

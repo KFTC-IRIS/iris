@@ -1,0 +1,10 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+41294141,1535319,9,14,Monday,23,52,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3272.79,242841,50.0,40642.74,large,large_2,laundering_schema_4,laundering_schema_4_id13,1
+41294142,1535319,9,14,Monday,23,56,27,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1211.19,242841,50.0,40642.74,large,large_2,laundering_schema_4,laundering_schema_4_id13,1
+41294138,242841,9,13,Sunday,10,54,11,inbound,OTHER,LINK,income,other_income,cash_deposits,4530.0,cash_2,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294140,242841,9,14,Monday,23,23,10,inbound,OTHER,LINK,income,other_income,cash_deposits,4060.0,cash_2,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294141,242841,9,14,Monday,23,52,19,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3272.79,1535319,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294142,242841,9,14,Monday,23,56,21,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1211.19,1535319,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294145,242841,9,15,Tuesday,12,0,16,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,3264.2,foreign_2,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294146,242841,9,16,Wednesday,8,21,25,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,833.23,6679,45.0,7067.437,local,local_1,laundering_schema_4,laundering_schema_4_id13,1
+41294146,6679,9,16,Wednesday,8,21,27,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,833.23,242841,40.0,177509.75400000002,local,local_1,laundering_schema_4,laundering_schema_4_id13,1

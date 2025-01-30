@@ -1,0 +1,20 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id,age,initial_balance,assigned_bank_type,assigned_bank,laundering_schema_type,laundering_schema_id,laundering_yn
+182818757,1075293,5,1,Friday,2,44,50,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,bank_transfer,other,5706.7,1614014,60.0,97946.36,local,local_2,laundering_schema_5,laundering_schema_5_id175,1
+182818757,1614014,5,1,Friday,2,44,59,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,bank_transfer,other,5706.7,1075293,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+128555995,1614014,5,2,Saturday,10,8,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,9193.3,756194,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358085,1614014,5,2,Saturday,11,51,1,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1000.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358084,1614014,5,2,Saturday,20,10,43,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,900.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358088,1614014,5,5,Tuesday,22,18,27,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,950.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358089,1614014,5,6,Wednesday,9,44,21,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,830.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358090,1614014,5,7,Thursday,11,9,41,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1060.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358101,1614014,6,6,Saturday,17,37,11,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,880.0,cash_2,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358104,1614014,6,8,Monday,12,1,27,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1100.0,cash_2,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358105,1614014,6,8,Monday,16,4,5,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,930.0,cash_2,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358103,1614014,6,8,Monday,16,13,40,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,980.0,cash_2,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358107,1614014,6,10,Wednesday,18,37,57,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1010.0,cash_2,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358124,1614014,7,10,Friday,8,40,0,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1000.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358125,1614014,7,10,Friday,10,28,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,920.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358126,1614014,7,10,Friday,18,3,26,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,900.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358129,1614014,7,14,Tuesday,8,29,23,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,790.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+274358130,1614014,7,15,Wednesday,12,54,49,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,980.0,cash_73,55.0,149336.35199999998,large,large_2,laundering_schema_5,laundering_schema_5_id175,1
+128555995,756194,5,2,Saturday,10,8,3,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,9193.3,1614014,40.0,-227.89306625274952,local,local_2,laundering_schema_5,laundering_schema_5_id175,1

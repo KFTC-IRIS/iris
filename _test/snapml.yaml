@@ -1,0 +1,40 @@
+data:
+  dataset_path: "../_datasets/combined_dataset_sample.csv"  # 원본 데이터셋
+  gfp_output_path: "../_datasets/gfp_features.csv"                   # GFP 특징 저장 경로
+  merged_gfp_output_path: "../_datasets/merged_gfp_dataset_sample.csv"              # 병합된 데이터 저장 경로
+  importances_output_path: "../_datasets/merged_gfp_features_importance_sample.csv"              # 병합된 데이터 저장 경로
+
+model:
+  type: "CatBoost" # {LightGBM, XGBoost, CatBoost }
+  params:
+    n_estimators: 100
+    learning_rate: 0.1
+    max_depth: 6
+    random_state: 42
+
+gfp:
+  time_window: 16
+  vertex_stats: true
+  vertex_stats_cols: [3]
+  vertex_stats_feats: [0, 1, 2, 3, 4, 8, 9, 10]
+
+  fan: true
+  fan_tw: 16
+  fan_bins: [2, 3]
+
+  degree: true
+  degree_tw: 16
+  degree_bins: [2, 3]
+
+  scatter-gather: true
+  scatter-gather_tw: 16
+  scatter-gather_bins: [2, 3]
+
+  temp-cycle: true
+  temp-cycle_tw: 16
+  temp-cycle_bins: [2, 3]
+
+  lc-cycle: false
+  lc-cycle_tw: 16
+  lc-cycle_len: 8
+  lc-cycle_bins: [2, 3]

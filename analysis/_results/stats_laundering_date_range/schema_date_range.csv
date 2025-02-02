@@ -1,0 +1,8 @@
+laundering_schema_type,min,max,date_range_days
+laundering_schema_1,2025-01-01,2025-11-12,315
+laundering_schema_2,2025-01-01,2025-10-22,294
+laundering_schema_3,2025-01-01,2025-10-17,289
+laundering_schema_4,2025-01-03,2025-10-05,275
+laundering_schema_5,2025-01-01,2025-11-04,307
+laundering_schema_6,2025-01-02,2025-12-24,356
+laundering_schema_7,2025-01-01,2025-12-22,355

@@ -1,0 +1,1001 @@
+transaction_id,account_id,month,day,weekday,hour,min,sec,transaction_direction,channel,payment_system,category_0,category_1,category_2,amount,counterpart_id
+0,0,1,4,Saturday,0,0,15,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+1,0,1,5,Sunday,10,37,42,outbound,OTHER,OTHER,taxes,other,other,8.6,taxes_1
+2,0,1,9,Thursday,0,8,27,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+4,0,2,1,Saturday,0,0,40,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+3,0,2,1,Saturday,11,35,56,outbound,OTHER,OTHER,other_expenses,other,other,2000.0,other_1
+5,0,2,3,Monday,12,6,49,inbound,OTHER,OTHER,financial_assets,managed_account,profits_dividends,16.95,financial_assets_managed_10
+6,0,2,3,Monday,17,22,2,outbound,SDD,BACS,other_expenses,other,other,20.0,other_1
+7,0,2,7,Friday,0,20,25,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+8,0,3,2,Monday,0,0,56,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+9,0,3,3,Tuesday,21,10,3,outbound,SDD,BACS,other_expenses,other,other,20.0,other_1
+10,0,3,6,Friday,0,28,18,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+11,0,3,13,Friday,18,12,20,outbound,OTHER,OTHER,other_expenses,other,other,2000.0,other_1
+12,0,3,17,Tuesday,11,35,56,outbound,CHECK,ICS,other_expenses,check,other,1200.0,other_1
+14,0,3,31,Tuesday,10,37,42,outbound,OTHER,OTHER,taxes,real_estate_assets,other,6.0,taxes_1
+13,0,3,31,Tuesday,18,2,48,outbound,OTHER,OTHER,taxes,other,other,28.0,taxes_1
+15,0,4,1,Wednesday,0,0,43,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+16,0,4,2,Thursday,22,56,3,outbound,OTHER,OTHER,taxes,other,other,8.5,taxes_1
+18,0,4,3,Friday,11,5,18,inbound,WIRE TRANSFER,FPS,material_assets,real_estate_property,other,3000.0,real_estate_4
+17,0,4,3,Friday,18,42,25,inbound,OTHER,OTHER,financial_assets,managed_account,profits_dividends,118.0,financial_assets_managed_10
+19,0,4,6,Monday,0,22,9,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+21,0,5,3,Sunday,0,0,6,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+20,0,5,3,Sunday,9,36,24,outbound,OTHER,OTHER,other_expenses,other,other,2000.0,other_1
+22,0,5,7,Thursday,0,4,19,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+23,0,5,11,Monday,10,53,57,outbound,OTHER,OTHER,other_expenses,other,other,1.0,other_1
+24,0,5,11,Monday,11,35,56,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.0,1014811
+25,0,5,22,Friday,10,37,42,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,2484.07,other_1
+26,0,5,22,Friday,18,2,48,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,0.0,other_1
+27,0,5,22,Friday,19,49,44,outbound,OTHER,OTHER,other_expenses,other,other,11150.0,other_1
+28,0,5,24,Sunday,17,22,2,outbound,CHECK,ICS,other_expenses,check,other,2400.0,other_1
+29,0,5,31,Sunday,19,7,30,outbound,OTHER,OTHER,taxes,other,other,136.0,taxes_1
+30,0,6,1,Monday,0,0,12,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+32,0,6,7,Sunday,0,7,0,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+31,0,6,7,Sunday,22,56,3,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,2.0,other_1
+33,0,6,16,Tuesday,8,3,58,outbound,OTHER,OTHER,taxes,other,other,110.0,taxes_1
+34,0,6,16,Tuesday,21,10,3,outbound,CHECK,ICS,other_expenses,check,other,256.0,other_1
+36,0,6,30,Tuesday,0,25,31,outbound,OTHER,OTHER,commissions_bank_fees,other,other,23.0,bank_commission_1
+35,0,6,30,Tuesday,18,2,48,outbound,OTHER,OTHER,taxes,real_estate_assets,other,6.1,taxes_1
+37,0,7,6,Monday,18,36,23,outbound,OTHER,OTHER,other_expenses,other,other,2000.0,other_1
+38,0,7,7,Tuesday,0,22,59,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+39,0,7,21,Tuesday,23,3,3,inbound,OTHER,OTHER,financial_assets,managed_account,profits_dividends,152.7,financial_assets_managed_10
+40,0,8,2,Sunday,0,0,50,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+41,0,8,6,Thursday,0,14,26,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+42,0,9,1,Tuesday,0,0,45,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+43,0,9,2,Wednesday,14,29,5,outbound,OTHER,OTHER,other_expenses,other,other,900.0,other_1
+44,0,9,6,Sunday,0,23,47,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+45,0,9,30,Wednesday,22,56,3,outbound,OTHER,OTHER,taxes,real_estate_assets,other,6.0,taxes_1
+46,0,10,1,Thursday,0,0,27,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+47,0,10,7,Wednesday,0,11,21,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+48,0,10,20,Tuesday,18,59,16,outbound,OTHER,OTHER,other_expenses,other,other,2000.0,other_1
+49,0,11,2,Monday,0,0,47,inbound,WIRE TRANSFER,BACS,income,pension,other,515.0,pension_1
+50,0,11,6,Friday,0,29,26,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+51,0,12,1,Tuesday,0,0,21,inbound,WIRE TRANSFER,BACS,income,pension,other,1186.0,pension_1
+52,0,12,6,Sunday,0,25,16,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0,bank_commission_1
+53,0,12,16,Wednesday,12,59,50,outbound,OTHER,OTHER,other_expenses,other,other,1200.0,other_1
+54,0,12,31,Thursday,19,7,30,outbound,OTHER,OTHER,taxes,real_estate_assets,other,6.2,taxes_1
+57,1,1,4,Saturday,0,0,58,inbound,WIRE TRANSFER,BACS,income,pension,other,901.6,pension_1
+58,1,1,5,Sunday,9,43,43,outbound,OTHER,OTHER,taxes,other,other,8.6,taxes_1
+59,1,1,5,Sunday,12,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,39.62,supermarket_groceries_129
+116360024,1,1,8,Wednesday,19,24,53,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,420.0,684741
+60,1,1,9,Thursday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,23.94,supermarket_groceries_176
+62,1,1,12,Sunday,13,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,17.79,pharmacy_6
+61,1,1,12,Sunday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,21.25,supermarket_groceries_82
+59063067,1,1,12,Sunday,16,54,32,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,95.0,347571
+64,1,1,12,Sunday,17,40,40,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,19.9,pharmacy_6
+63,1,1,12,Sunday,18,12,20,outbound,CHECK,ICS,other_expenses,check,other,666.7,other_1
+59063070,1,1,14,Tuesday,10,49,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,570.0,347571
+59063069,1,1,14,Tuesday,10,51,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1900.0,347571
+181425569,1,1,15,Wednesday,11,41,53,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,228.6,1067220
+65,1,1,16,Thursday,12,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,43.58,pharmacy_52
+116360027,1,1,16,Thursday,20,35,19,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,gift,other,42.0,684741
+66,1,1,18,Saturday,6,10,22,outbound,SDD,BACS,utilities,phone_internet,other,42.58,phone_internet_4
+67,1,1,18,Saturday,21,42,52,outbound,OTHER,OTHER,other_expenses,other,other,500.0,other_1
+115394738,1,1,19,Sunday,9,3,47,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,21.0,679051
+68,1,1,19,Sunday,20,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,33.0,supermarket_groceries_129
+69,1,1,22,Wednesday,10,37,42,outbound,OTHER,OTHER,insurances,other,other,10.01,insurance_12
+70,1,1,23,Thursday,16,40,40,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,63.0,pharmacy_16
+73,1,1,26,Sunday,10,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,30.93,supermarket_groceries_176
+71,1,1,26,Sunday,10,37,42,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,101.6,electricity_gas_bill_7
+72,1,1,26,Sunday,16,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,24.44,supermarket_groceries_176
+74,1,1,28,Tuesday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,41.2,supermarket_groceries_15
+75,1,1,30,Thursday,21,56,56,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,14.7,pharmacy_46
+76,1,2,1,Saturday,0,0,50,inbound,WIRE TRANSFER,BACS,income,pension,other,901.6,pension_1
+77,1,2,2,Sunday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,19.99,clothing_50
+79,1,2,3,Monday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.67,supermarket_groceries_129
+78,1,2,3,Monday,18,2,48,inbound,WIRE TRANSFER,FPS,insurances,other,other,81.48,insurance_16
+163540878,1,2,3,Monday,20,12,46,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,80.0,961626
+50814593,1,2,5,Wednesday,16,28,40,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,720.0,299157
+80,1,2,5,Wednesday,19,42,17,outbound,OTHER,OTHER,other_expenses,other,other,150.0,other_1
+116360035,1,2,7,Friday,11,4,26,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,420.0,684741
+97100686,1,2,7,Friday,12,57,5,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,640.0,571396
+145339242,1,2,9,Sunday,11,21,50,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1800.0,854469
+82,1,2,9,Sunday,18,12,20,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1346.0,41200
+176019610,1,2,9,Sunday,18,36,2,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,gift,other,130.0,1035311
+81,1,2,9,Sunday,21,19,50,outbound,OTHER,OTHER,other_expenses,other,other,1.0,other_1
+51769386,1,2,10,Monday,16,32,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,150.8,304763
+94534730,1,2,10,Monday,18,24,39,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,136.0,556357
+83,1,2,10,Monday,21,12,46,outbound,OTHER,OTHER,taxes,other,other,5407.0,taxes_1
+84,1,2,11,Tuesday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,45.9,supermarket_groceries_15
+85,1,2,12,Wednesday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,55.78,supermarket_groceries_176
+86,1,2,13,Thursday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.4,supermarket_groceries_134
+87,1,2,16,Sunday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,9.02,supermarket_groceries_134
+88,1,2,18,Tuesday,21,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,9.84,supermarket_groceries_82
+89,1,2,20,Thursday,21,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,13.34,supermarket_groceries_176
+145339249,1,2,23,Sunday,15,58,53,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1008.0,854469
+90,1,2,23,Sunday,21,56,56,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,20.0,pharmacy_46
+91,1,2,24,Monday,12,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,38.56,pharmacy_63
+92,1,2,24,Monday,16,40,40,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,15.54,pharmacy_52
+93,1,2,25,Tuesday,11,49,52,outbound,CARD,Visa/Mastercard,professional_services,public_administration_services,postal_services,38.75,public_administration_services_18
+94,1,3,1,Sunday,0,0,57,inbound,WIRE TRANSFER,BACS,income,pension,other,901.5,pension_1
+95,1,3,2,Monday,11,15,15,outbound,CARD,Visa/Mastercard,home,furniture_appliances,other,30.0,furniture_20
+96,1,3,3,Tuesday,9,36,24,outbound,CHECK,ICS,other_expenses,check,other,1000.0,other_1
+97,1,3,3,Tuesday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.51,supermarket_groceries_82
+115394780,1,3,5,Thursday,8,27,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7.0,679051
+52401648,1,3,8,Sunday,12,50,37,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,130.0,308454
+98,1,3,9,Monday,9,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,20.0,fuel_5
+52283320,1,3,10,Tuesday,13,27,1,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,630.0,307806
+169520270,1,3,10,Tuesday,16,12,26,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,976.0,997194
+169508758,1,3,12,Thursday,20,13,23,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,58.5,997124
+59063123,1,3,15,Sunday,19,17,7,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1900.0,347571
+99,1,3,16,Monday,21,56,56,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,40.93,pharmacy_6
+80916267,1,3,17,Tuesday,3,11,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3800.0,476180
+51500066,1,3,17,Tuesday,11,23,39,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,125.0,303176
+101,1,3,18,Wednesday,10,53,57,outbound,CHECK,ICS,other_expenses,check,other,5000.0,other_1
+100,1,3,18,Wednesday,16,3,58,outbound,SDD,BACS,utilities,phone_internet,other,24.51,phone_internet_4
+102,1,3,18,Wednesday,17,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,24.6,supermarket_groceries_176
+103,1,3,19,Thursday,17,43,43,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,29.0,pharmacy_16
+104,1,3,20,Friday,11,15,15,outbound,CARD,Visa/Mastercard,home,furniture_appliances,other,12.0,furniture_13
+106,1,3,22,Sunday,10,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,20.0,fuel_5
+105,1,3,22,Sunday,18,2,48,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,91.05,electricity_gas_bill_7
+108,1,3,24,Tuesday,9,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,15.98,supermarket_groceries_15
+107,1,3,24,Tuesday,22,56,3,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,61.8,electricity_gas_bill_7
+110,1,3,25,Wednesday,11,15,15,outbound,CARD,Visa/Mastercard,home,furniture_appliances,other,650.0,furniture_20
+109,1,3,25,Wednesday,16,22,7,outbound,CARD,Visa/Mastercard,professional_services,public_administration_services,postal_services,100.4,public_administration_services_18
+111,1,3,26,Thursday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,24.8,supermarket_groceries_82
+112,1,3,29,Sunday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,other,other,9.75,online_shopping_13
+113,1,3,30,Monday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.7,supermarket_groceries_15
+145339265,1,4,6,Monday,8,32,46,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,360.0,854469
+57736071,1,4,6,Monday,12,34,6,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,900.0,339807
+114931994,1,4,14,Tuesday,0,26,28,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,50.0,676360
+121326379,1,4,22,Wednesday,12,48,59,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2700.0,713783
+94993917,1,4,24,Friday,20,21,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.0,559077
+173886794,1,4,27,Monday,16,23,29,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,31.25,1022922
+98070329,1,4,28,Tuesday,10,16,12,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,13.0,577124
+114,1,4,30,Thursday,11,15,15,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,31.5,gardening_11
+145339280,1,5,5,Tuesday,8,12,44,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,360.0,854469
+65805991,1,5,11,Monday,20,12,44,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,20.0,387148
+107500021,1,5,18,Monday,12,34,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1816.0,632529
+115,1,5,19,Tuesday,18,2,9,outbound,OTHER,OTHER,other_expenses,other,other,500.0,other_1
+121326418,1,5,21,Thursday,6,53,5,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1080.0,713783
+111026915,1,5,21,Thursday,13,34,57,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,30.0,653383
+118,1,5,24,Sunday,8,3,58,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,61.8,electricity_gas_bill_7
+117,1,5,24,Sunday,19,7,30,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,83.78,electricity_gas_bill_7
+116,1,5,24,Sunday,22,35,3,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+119,1,5,27,Wednesday,12,57,4,outbound,OTHER,OTHER,other_expenses,other,other,500.0,other_1
+120940129,1,5,28,Thursday,14,18,29,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,160.0,711549
+175247041,1,6,5,Friday,13,49,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,90.0,1030777
+120,1,6,7,Sunday,0,0,43,inbound,WIRE TRANSFER,BACS,income,pension,other,901.5,pension_1
+174212110,1,6,8,Monday,13,27,12,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,112.0,1024782
+116360078,1,6,8,Monday,18,53,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,420.0,684741
+121,1,6,8,Monday,19,49,44,outbound,CHECK,ICS,other_expenses,check,other,490.0,other_1
+57052180,1,6,9,Tuesday,12,0,49,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,585.0,335863
+145339295,1,6,11,Thursday,18,59,38,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,141.52,854469
+166946249,1,6,15,Monday,14,35,33,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,60.0,981949
+123,1,6,16,Tuesday,14,20,23,outbound,OTHER,OTHER,taxes,other,other,131.0,taxes_1
+122,1,6,16,Tuesday,19,38,26,outbound,OTHER,OTHER,taxes,other,other,131.0,taxes_1
+124,1,6,16,Tuesday,20,7,51,outbound,OTHER,OTHER,taxes,other,other,131.0,taxes_1
+125,1,6,17,Wednesday,21,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,17.93,supermarket_groceries_176
+126,1,6,19,Friday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.0,supermarket_groceries_15
+65806002,1,6,22,Monday,6,57,47,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,377.52437559656585,387148
+127,1,6,23,Tuesday,12,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,20.5,pharmacy_46
+128,1,6,25,Thursday,10,6,6,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,58.95,pharmacy_6
+55997076,1,6,26,Friday,20,53,20,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,918.65,329575
+52283406,1,6,28,Sunday,13,34,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,720.0,307806
+129,1,6,30,Tuesday,10,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.79,supermarket_groceries_134
+131,1,7,1,Wednesday,0,0,21,inbound,WIRE TRANSFER,BACS,income,pension,other,1442.0,pension_1
+130,1,7,1,Wednesday,0,28,38,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.25,bank_commission_1
+193205468,1,7,1,Wednesday,12,56,56,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,28500.0,1136446
+132,1,7,2,Thursday,9,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.0,supermarket_groceries_134
+110396007,1,7,2,Thursday,13,12,48,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,65.0,649695
+133,1,7,3,Friday,11,15,15,outbound,CARD,Visa/Mastercard,shopping,other,other,23.7,online_shopping_14
+134,1,7,3,Friday,14,52,35,outbound,CARD,Visa/Mastercard,other_expenses,other,other,47.0,other_1
+57052195,1,7,5,Sunday,11,25,21,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,195.0,335863
+136,1,7,5,Sunday,12,25,36,outbound,OTHER,OTHER,taxes,other,other,5.17,taxes_1
+55367626,1,7,5,Sunday,14,2,32,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,678.6,325862
+137,1,7,5,Sunday,15,40,40,outbound,CARD,Visa/Mastercard,shopping,clothing,other,28.08,clothing_50
+135,1,7,5,Sunday,22,56,3,outbound,OTHER,OTHER,insurances,other,other,11.72,insurance_16
+138,1,7,7,Tuesday,17,40,40,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,20.23,pharmacy_6
+139,1,7,7,Tuesday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,13.3,supermarket_groceries_176
+140,1,7,8,Wednesday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.44,supermarket_groceries_176
+141,1,7,9,Thursday,9,46,26,outbound,OTHER,OTHER,other_expenses,other,other,500.0,other_1
+166946260,1,7,9,Thursday,10,54,49,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.0,981949
+142,1,7,9,Thursday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,21.3,supermarket_groceries_134
+166098886,1,7,12,Sunday,13,5,22,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,24.5,976910
+143,1,7,12,Sunday,18,43,43,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,19.25,pharmacy_32
+144,1,7,13,Monday,17,43,43,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,16.9,pharmacy_16
+145,1,7,13,Monday,19,26,2,outbound,CARD,Visa/Mastercard,other_expenses,other,other,26.0,other_1
+146,1,7,16,Thursday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.94,supermarket_groceries_82
+166946272,1,7,17,Friday,7,48,47,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,50.0,981949
+111026944,1,7,17,Friday,15,9,5,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,gift,other,250.0,653383
+110396015,1,7,20,Monday,16,33,50,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,65.0,649695
+148,1,7,20,Monday,16,40,40,outbound,CARD,Visa/Mastercard,home,furniture_appliances,other,18.95,furniture_20
+147,1,7,20,Monday,20,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.03,supermarket_groceries_134
+149,1,7,21,Tuesday,17,30,15,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+150,1,7,22,Wednesday,9,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,18.11,supermarket_groceries_15
+121326469,1,7,22,Wednesday,11,1,43,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,360.0,713783
+151,1,7,23,Thursday,9,43,43,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,70.73,electricity_gas_bill_7
+80916478,1,7,23,Thursday,17,34,44,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,gift,other,2850.0,476180
+152,1,7,25,Saturday,12,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,12.94,supermarket_groceries_82
+153,1,7,25,Saturday,12,15,15,outbound,CARD,Visa/Mastercard,home,other,other,23.96,furniture_11
+57052221,1,7,25,Saturday,13,13,41,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1004.4909150354861,335863
+154,1,7,27,Monday,10,6,6,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,46.8,pharmacy_46
+110396023,1,7,27,Monday,10,12,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,65.0,649695
+155,1,7,27,Monday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,8.7,supermarket_groceries_176
+156,1,7,28,Tuesday,11,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,22.49,clothing_50
+157,1,7,29,Wednesday,11,49,52,outbound,CARD,Visa/Mastercard,professional_services,other,other,16.5,professional_services_21
+158,1,7,30,Thursday,9,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.36,fuel_26
+159,1,8,1,Saturday,12,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,15.9,pharmacy_63
+160,1,8,2,Sunday,0,0,29,inbound,WIRE TRANSFER,BACS,income,pension,other,1025.0,pension_1
+161,1,8,2,Sunday,18,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.15,supermarket_groceries_134
+162,1,8,5,Wednesday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,10.05,supermarket_groceries_15
+166946293,1,8,6,Thursday,12,58,34,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.0,981949
+166946294,1,8,6,Thursday,22,55,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.0,981949
+163,1,8,9,Sunday,17,45,45,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,14.9,supermarket_groceries_134
+164,1,8,14,Friday,17,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,15.87,supermarket_groceries_134
+166,1,8,16,Sunday,11,6,6,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,20.0,pharmacy_46
+98070421,1,8,16,Sunday,11,47,30,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,250.0,577124
+165,1,8,16,Sunday,12,15,15,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,14.0,gardening_14
+98070420,1,8,16,Sunday,19,37,35,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,250.0,577124
+184976298,1,8,16,Sunday,20,13,12,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1614.6,1088058
+121326496,1,8,20,Thursday,9,45,10,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,630.0,713783
+167,1,8,20,Thursday,18,45,45,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.15,supermarket_groceries_15
+168,1,8,23,Sunday,2,45,20,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+169,1,8,23,Sunday,19,21,21,outbound,OTHER,OTHER,other_expenses,other,other,402.0,other_1
+170,1,8,24,Monday,9,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,20.55,supermarket_groceries_15
+171,1,8,24,Monday,11,12,12,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,30.0,pharmacy_46
+167119287,1,8,24,Monday,19,57,23,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,96.0,982949
+181619116,1,8,25,Tuesday,4,31,46,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,gift,other,576.0,1068361
+172,1,8,25,Tuesday,17,45,45,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.0,supermarket_groceries_134
+145339346,1,8,25,Tuesday,20,9,36,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,180.0,854469
+174,1,8,27,Thursday,14,27,27,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,18.94,supermarket_groceries_134
+173,1,8,27,Thursday,16,40,40,outbound,CARD,Visa/Mastercard,transportation,car,fuel,50.0,fuel_61
+145339348,1,8,27,Thursday,18,10,16,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,64.8,854469
+175,1,8,30,Sunday,14,27,27,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.0,supermarket_groceries_134
+178,1,9,1,Tuesday,0,0,7,inbound,WIRE TRANSFER,BACS,income,pension,other,1025.0,pension_1
+177,1,9,1,Tuesday,10,37,42,inbound,WIRE TRANSFER,FPS,taxes,vehicle_stamp_duty,car_stamp_duty,266.2,taxes_1
+176,1,9,1,Tuesday,10,37,42,inbound,WIRE TRANSFER,FPS,legal_expenses,fines,other,7.95,legal_expenses_47
+120471110,1,9,2,Wednesday,13,45,20,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,146.1,708741
+179,1,9,3,Thursday,18,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.45,supermarket_groceries_15
+180,1,9,7,Monday,2,3,17,outbound,OTHER,OTHER,other_expenses,other,other,2.0,other_1
+181,1,9,7,Monday,9,36,24,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2000.0,911036
+116360117,1,9,8,Tuesday,19,0,19,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,420.0,684741
+182,1,9,10,Thursday,11,35,56,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_7
+111694277,1,9,10,Thursday,20,10,55,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,720.0,657341
+183,1,9,13,Sunday,17,22,2,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_183
+184,1,9,14,Monday,18,50,50,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,34.8,pharmacy_63
+186,1,9,15,Tuesday,14,27,27,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,18.07,supermarket_groceries_134
+187,1,9,15,Tuesday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,clothing,other,23.95,clothing_50
+57217136,1,9,15,Tuesday,17,31,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,864.0,336818
+185,1,9,15,Tuesday,21,10,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_154
+99036816,1,9,16,Wednesday,14,43,17,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3006.4,582826
+56015202,1,9,17,Thursday,18,23,16,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,50.0,329677
+189,1,9,20,Sunday,10,37,42,outbound,WIRE TRANSFER,FPS,home,condominium,other,397.4,condominium_1
+188,1,9,20,Sunday,11,58,50,outbound,OTHER,OTHER,other_expenses,other,other,1.0,other_1
+190,1,9,20,Sunday,18,12,20,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_154
+191,1,9,21,Monday,4,58,21,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+65806041,1,9,21,Monday,6,29,2,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6000.0,387148
+192,1,9,21,Monday,17,45,45,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,31.45,pharmacy_63
+193,1,9,22,Tuesday,19,56,56,outbound,CARD,Visa/Mastercard,shopping,clothing,other,29.0,clothing_50
+194,1,9,23,Wednesday,19,21,29,outbound,CARD,Visa/Mastercard,professional_services,public_administration_services,postal_services,39.0,public_administration_services_18
+195,1,9,24,Thursday,21,12,46,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,82.56,electricity_gas_bill_7
+196,1,9,27,Sunday,17,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.54,supermarket_groceries_176
+167321345,1,9,27,Sunday,22,18,56,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,350.0,984157
+197,1,9,28,Monday,11,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,16.79,clothing_50
+198,1,9,30,Wednesday,11,15,15,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,15.6,gardening_11
+200,1,10,1,Thursday,0,0,49,inbound,WIRE TRANSFER,BACS,income,pension,other,1025.0,pension_1
+199,1,10,1,Thursday,0,21,48,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.25,bank_commission_1
+201,1,10,1,Thursday,12,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.95,supermarket_groceries_134
+111027016,1,10,2,Friday,11,1,39,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,17.5,653383
+202,1,10,4,Sunday,23,38,15,outbound,OTHER,OTHER,taxes,other,other,8.62,taxes_1
+203,1,10,6,Tuesday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,other,other,22.37,online_shopping_14
+204,1,10,7,Wednesday,9,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,43.92,fuel_61
+205,1,10,8,Thursday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,12.8,clothing_50
+116360132,1,10,8,Thursday,12,40,58,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,420.0,684741
+206,1,10,8,Thursday,22,58,58,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,34.88,supermarket_groceries_176
+77112533,1,10,9,Friday,18,28,47,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,640.0,453791
+207,1,10,12,Monday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,other,other,21.7,online_shopping_14
+57052273,1,10,12,Monday,19,23,41,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,585.0,335863
+177770272,1,10,13,Tuesday,5,40,12,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,475.0,1045642
+208,1,10,15,Thursday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.45,supermarket_groceries_134
+180736559,1,10,16,Friday,12,10,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,30.8,1063158
+209,1,10,16,Friday,21,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,15.45,supermarket_groceries_15
+95067665,1,10,19,Monday,8,11,36,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,625.0,559516
+211,1,10,22,Thursday,2,3,17,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_52
+210,1,10,22,Thursday,20,17,18,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+212,1,10,22,Thursday,21,57,57,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,22.48,supermarket_groceries_134
+213,1,10,24,Saturday,17,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,17.29,supermarket_groceries_82
+215,1,10,28,Wednesday,5,20,52,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_52
+214,1,10,28,Wednesday,17,14,40,outbound,OTHER,OTHER,other_expenses,other,other,540.0,other_1
+216,1,10,28,Wednesday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,12.41,supermarket_groceries_82
+145339381,1,10,28,Wednesday,21,30,18,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,738.0,854469
+217,1,10,29,Thursday,11,15,15,outbound,CARD,Visa/Mastercard,shopping,other,other,37.0,online_shopping_14
+218,1,11,2,Monday,0,0,48,inbound,WIRE TRANSFER,BACS,income,pension,other,1025.0,pension_1
+56338212,1,11,2,Monday,14,43,13,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,94.5,331573
+56015222,1,11,2,Monday,20,6,19,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,150.0,329677
+219,1,11,5,Thursday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,21.79,supermarket_groceries_134
+220,1,11,8,Sunday,13,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,14.39,supermarket_groceries_134
+221,1,11,9,Monday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,37.21,supermarket_groceries_82
+222,1,11,10,Tuesday,11,15,15,outbound,CARD,Visa/Mastercard,home,other,other,48.4,furniture_16
+78792263,1,11,12,Thursday,8,14,3,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1221.6,463575
+76220986,1,11,12,Thursday,10,55,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,299.06,448585
+223,1,11,12,Thursday,11,12,12,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,14.8,pharmacy_16
+175247170,1,11,13,Friday,16,49,23,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,120.78,1030777
+224,1,11,15,Sunday,12,12,12,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,8.89,pharmacy_46
+225,1,11,17,Tuesday,18,40,28,outbound,OTHER,OTHER,other_expenses,other,other,268.3,other_1
+226,1,11,19,Thursday,12,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,24.75,supermarket_groceries_134
+56638096,1,11,20,Friday,15,55,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,133.0,333340
+227,1,11,22,Sunday,9,36,24,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_158
+121326581,1,11,22,Sunday,11,46,29,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,270.0,713783
+228,1,11,23,Monday,18,11,30,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+77112593,1,11,23,Monday,19,26,41,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,96.0,453791
+121326585,1,11,25,Wednesday,11,59,37,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1800.0,713783
+230,1,11,26,Thursday,14,29,29,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,34.71,supermarket_groceries_82
+229,1,11,26,Thursday,19,38,26,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,72.62,electricity_gas_bill_7
+166555021,1,11,29,Sunday,12,46,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,20.9,979621
+231,1,11,29,Sunday,22,58,58,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,16.09,supermarket_groceries_82
+232,1,12,1,Tuesday,0,0,17,inbound,WIRE TRANSFER,BACS,income,pension,other,2016.0,pension_1
+233,1,12,2,Wednesday,10,53,57,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_52
+236,1,12,3,Thursday,18,54,24,outbound,OTHER,OTHER,taxes,other,other,22.0,taxes_1
+234,1,12,3,Thursday,21,3,10,outbound,OTHER,OTHER,taxes,other,other,23.0,taxes_1
+115537508,1,12,3,Thursday,21,51,57,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,197.6,679882
+235,1,12,3,Thursday,23,8,37,outbound,OTHER,OTHER,taxes,other,other,23.0,taxes_1
+77112608,1,12,4,Friday,13,50,31,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,78.4,453791
+237,1,12,6,Sunday,18,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,14.9,supermarket_groceries_82
+239,1,12,9,Wednesday,11,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,29.9,clothing_50
+240,1,12,9,Wednesday,15,40,40,outbound,CARD,Visa/Mastercard,transportation,car,fuel,30.0,fuel_26
+241,1,12,9,Wednesday,15,40,40,outbound,CARD,Visa/Mastercard,shopping,clothing,other,25.0,clothing_50
+238,1,12,9,Wednesday,19,49,44,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,250.0,cash_52
+242,1,12,10,Thursday,16,22,7,outbound,CARD,Visa/Mastercard,professional_services,other,other,29.85,professional_services_21
+243,1,12,13,Sunday,21,57,57,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.36,supermarket_groceries_82
+56638133,1,12,14,Monday,8,27,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,380.0,333340
+244,1,12,14,Monday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,40.41,supermarket_groceries_82
+245,1,12,15,Tuesday,10,59,41,outbound,OTHER,OTHER,other_expenses,other,other,225.0,other_1
+246,1,12,15,Tuesday,18,36,23,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_52
+248,1,12,17,Thursday,9,7,7,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,15.1,supermarket_groceries_82
+247,1,12,17,Thursday,19,50,50,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,13.5,pharmacy_46
+180736612,1,12,21,Monday,6,25,38,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,29.4,1063158
+249,1,12,21,Monday,14,29,5,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_52
+251,1,12,22,Tuesday,11,7,20,outbound,SDD,BACS,utilities,phone_internet,other,20.04,phone_internet_4
+250,1,12,22,Tuesday,12,22,3,outbound,OTHER,OTHER,taxes,other,other,0.02,taxes_1
+252,1,12,22,Tuesday,18,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.7,supermarket_groceries_82
+253,1,12,22,Tuesday,21,56,56,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,35.5,pharmacy_46
+254,1,12,24,Thursday,18,49,49,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.2,supermarket_groceries_82
+255,1,12,28,Monday,11,15,15,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,9.95,gardening_11
+256,1,12,28,Monday,14,27,27,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,21.0,pharmacy_46
+257,1,12,28,Monday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,other,other,23.4,online_shopping_14
+163541084,1,12,28,Monday,17,48,5,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,480.0,961626
+258,1,12,29,Tuesday,12,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,12.12,supermarket_groceries_82
+259,1,12,29,Tuesday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,other,other,24.0,online_shopping_14
+1269,10,1,31,Friday,21,12,46,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1270,10,2,29,Saturday,19,38,26,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1404,10,3,6,Friday,5,35,17,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,563.0,11
+1272,10,3,16,Monday,20,4,30,outbound,SDD,BACS,utilities,phone_internet,other,95.08,phone_internet_3
+1273,10,3,31,Tuesday,14,20,23,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1421,10,4,12,Sunday,5,56,16,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,176.8,11
+1425,10,4,16,Thursday,3,39,14,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,47.4,11
+1428,10,4,17,Friday,19,19,37,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,427.7,11
+1277,10,4,23,Thursday,18,2,48,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1278,10,4,30,Thursday,20,7,51,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1279,10,5,15,Friday,22,51,49,outbound,SDD,BACS,utilities,phone_internet,other,95.08,phone_internet_3
+1460,10,5,22,Friday,0,20,58,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1118.0,11
+1281,10,5,25,Monday,22,56,3,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1282,10,5,31,Sunday,12,25,36,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1475,10,6,3,Wednesday,19,50,57,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,293.4,11
+1489,10,6,16,Tuesday,16,46,43,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,308.3,11
+1284,10,6,16,Tuesday,23,1,25,outbound,OTHER,OTHER,taxes,other,other,100.8,taxes_1
+1286,10,6,23,Tuesday,19,7,30,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1498,10,6,26,Friday,17,0,41,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,499.4,11
+1288,10,6,30,Tuesday,23,38,15,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1289,10,7,8,Wednesday,14,12,14,outbound,OTHER,OTHER,taxes,other,other,334.295214175204,taxes_1
+1290,10,7,23,Thursday,8,3,58,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1532,10,7,27,Monday,22,14,29,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,464.9,11
+1292,10,7,31,Friday,21,3,10,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1536,10,7,31,Friday,21,6,57,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,412.4,11
+1294,10,8,14,Friday,22,56,3,inbound,OTHER,LINK,income,other_income,cash_deposits,2000.0,cash_191
+1295,10,8,22,Saturday,9,5,11,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,690.0,11
+1296,10,8,23,Sunday,19,7,30,inbound,OTHER,LINK,income,other_income,cash_deposits,1515.0832722079358,cash_191
+1297,10,8,24,Monday,9,43,43,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1298,10,8,31,Monday,23,8,37,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1590,10,9,14,Monday,2,28,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,470.2,11
+1300,10,9,23,Wednesday,21,12,46,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1301,10,9,30,Wednesday,18,54,24,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1636,10,10,20,Tuesday,15,23,10,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,517.0,11
+1302,10,10,20,Tuesday,21,9,9,outbound,OTHER,OTHER,taxes,other,other,7.2,taxes_1
+1639,10,10,22,Thursday,15,1,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,172.9,11
+1305,10,10,23,Friday,19,38,26,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1641,10,10,25,Sunday,10,51,34,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,129.0,11
+1307,10,10,31,Saturday,12,22,3,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1308,10,11,23,Monday,14,20,23,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1680,10,11,26,Thursday,21,19,53,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,92.3,11
+1683,10,11,27,Friday,5,31,59,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,109.8,11
+1684,10,11,28,Saturday,4,3,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,304.0,11
+1312,10,11,30,Monday,14,50,37,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+1313,10,12,1,Tuesday,13,31,29,outbound,OTHER,OTHER,taxes,other,other,300.6,taxes_1
+1687,10,12,2,Wednesday,20,44,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1069.0,11
+1315,10,12,23,Wednesday,20,7,51,outbound,SDD,BACS,loans_financing,other,other,430.56,financing_1
+1316,10,12,31,Thursday,8,16,52,outbound,OTHER,OTHER,loans_financing,mortgage,other,530.46,financing_1
+17857,100,1,3,Friday,0,0,34,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,5046.4,work_income_70
+17858,100,1,3,Friday,12,14,56,outbound,CARD,Visa/Mastercard,transportation,car,repairs_maintenance_tires,406.4,car_accessories_maintenance_40
+17859,100,1,8,Wednesday,14,55,37,outbound,OTHER,OTHER,taxes,other,other,13.79,taxes_1
+17860,100,1,13,Monday,0,28,32,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.8,bank_commission_1
+17861,100,1,13,Monday,12,48,47,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,960.0,713579
+17862,100,1,20,Monday,18,35,16,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_98
+17863,100,1,24,Friday,16,7,42,outbound,SDD,BACS,utilities,phone_internet,other,32.0,phone_internet_1
+17864,100,1,27,Monday,15,57,41,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17865,100,2,4,Tuesday,18,15,7,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,242.08,electricity_gas_bill_10
+17866,100,2,5,Wednesday,0,0,56,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,3097.6,work_income_70
+17867,100,2,10,Monday,18,0,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_61
+17868,100,2,11,Tuesday,23,57,0,outbound,CARD,Visa/Mastercard,financial_assets,other,other,824.0,financial_assets_managed_5
+17869,100,2,12,Wednesday,0,9,12,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.8,bank_commission_1
+17870,100,2,12,Wednesday,8,32,23,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,960.0,713579
+17871,100,2,25,Tuesday,11,41,3,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17872,100,2,26,Wednesday,8,40,49,outbound,OTHER,OTHER,other_expenses,other,other,0.8,other_1
+17873,100,2,26,Wednesday,10,2,21,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6720.0,730199
+17874,100,2,28,Friday,17,41,12,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,129.3,electricity_gas_bill_10
+17875,100,2,28,Friday,19,51,51,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.35,fuel_46
+17876,100,3,4,Wednesday,0,0,31,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,3017.6,work_income_70
+17877,100,3,11,Wednesday,12,27,27,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_167
+17878,100,3,12,Thursday,0,5,15,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.8,bank_commission_1
+17879,100,3,12,Thursday,18,44,33,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,960.0,713579
+17880,100,3,23,Monday,9,31,20,outbound,SDD,BACS,other_expenses,other,other,240.0,other_1
+17881,100,3,25,Wednesday,12,22,56,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17882,100,3,31,Tuesday,7,42,55,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,193.92,electricity_gas_bill_10
+17883,100,4,3,Friday,7,2,2,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,323.2,supermarket_groceries_36
+17884,100,4,6,Monday,0,0,32,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2851.2,work_income_70
+17885,100,4,14,Tuesday,0,6,39,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.8,bank_commission_1
+17886,100,4,14,Tuesday,11,17,18,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,960.0,713579
+17887,100,4,20,Monday,9,45,22,outbound,SDD,BACS,other_expenses,other,other,192.0,other_1
+17889,100,4,24,Friday,13,5,17,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6720.0,266945
+17888,100,4,24,Friday,15,36,4,outbound,OTHER,OTHER,other_expenses,other,other,0.8,other_1
+17890,100,4,27,Monday,14,46,52,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17891,100,4,29,Wednesday,21,24,2,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,128.58,electricity_gas_bill_10
+17892,100,5,4,Monday,0,0,29,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2750.4,work_income_70
+17893,100,5,11,Monday,4,1,49,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+17895,100,5,12,Tuesday,0,28,34,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.8,bank_commission_1
+17896,100,5,12,Tuesday,8,31,21,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,960.0,713579
+17894,100,5,12,Tuesday,12,17,17,outbound,OTHER,OTHER,health,medicines_parapharmacy,other,27.66,pharmacy_89
+17897,100,5,13,Wednesday,9,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_187
+17898,100,5,15,Friday,21,59,6,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,195.52,electricity_gas_bill_10
+17899,100,5,25,Monday,7,27,31,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17900,100,6,3,Wednesday,6,21,33,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,92.03,electricity_gas_bill_10
+17901,100,6,3,Wednesday,14,34,34,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.03,fuel_46
+17902,100,6,4,Thursday,0,0,10,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2795.2,work_income_70
+17903,100,6,13,Saturday,9,2,2,outbound,CARD,Visa/Mastercard,leisure,restaurants_takeaway_aperitifs,other,182.4,restaurants_takeaway_73
+17904,100,6,19,Friday,19,10,22,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,101.86,electricity_gas_bill_10
+17905,100,6,21,Sunday,21,58,58,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,91.66,supermarket_groceries_73
+17906,100,6,25,Thursday,13,52,51,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17907,100,6,27,Saturday,10,17,17,outbound,CARD,Visa/Mastercard,transportation,car,fuel,72.05,fuel_167
+17908,100,7,1,Wednesday,0,0,46,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2828.8,work_income_70
+17909,100,7,3,Friday,7,1,1,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,59.04,supermarket_groceries_36
+17910,100,7,4,Saturday,11,43,12,outbound,OTHER,OTHER,taxes,other,other,13.6,taxes_1
+17911,100,7,6,Monday,17,32,8,outbound,OTHER,OTHER,transportation,car,highway_tolls,2.72,highway_tolls_1
+17912,100,7,16,Thursday,16,39,39,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,47.97,supermarket_groceries_169
+17914,100,7,17,Friday,12,24,24,outbound,CARD,Visa/Mastercard,transportation,car,fuel,80.0,fuel_200
+17913,100,7,17,Friday,15,51,47,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,300.0,cash_61
+17915,100,7,27,Monday,9,52,43,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17916,100,7,27,Monday,12,16,16,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,31.58,supermarket_groceries_73
+17917,100,7,29,Wednesday,10,4,4,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,64.0,personal_care_55
+17918,100,7,31,Friday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,36.78,clothing_92
+17919,100,8,3,Monday,0,0,16,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,4372.8,work_income_70
+17921,100,8,4,Tuesday,10,17,17,outbound,CARD,Visa/Mastercard,health,medical_visits_exams,other,187.52,medical_visit_6
+17920,100,8,4,Tuesday,13,9,1,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,47.84,electricity_gas_bill_10
+17923,100,8,6,Thursday,1,2,2,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_187
+17922,100,8,6,Thursday,18,38,10,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,300.0,cash_61
+17924,100,8,11,Tuesday,20,55,55,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,58.98,supermarket_groceries_169
+17925,100,8,12,Wednesday,21,21,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_61
+17926,100,8,19,Wednesday,11,10,1,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,52.8,electricity_gas_bill_10
+17927,100,8,19,Wednesday,15,38,33,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,74.24,electricity_gas_bill_10
+17928,100,8,20,Thursday,13,31,31,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.22,fuel_187
+17929,100,8,24,Monday,10,10,10,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,76.8,supermarket_groceries_36
+17931,100,8,25,Tuesday,9,4,4,outbound,CARD,Visa/Mastercard,shopping,clothing,other,247.2,clothing_92
+17930,100,8,25,Tuesday,14,1,20,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17932,100,8,29,Saturday,15,37,37,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.26,fuel_46
+17933,100,9,2,Wednesday,0,0,10,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2782.4,work_income_70
+17934,100,9,7,Monday,7,42,52,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+17936,100,9,8,Tuesday,12,25,25,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.19,fuel_196
+17935,100,9,8,Tuesday,14,39,39,outbound,CARD,Visa/Mastercard,health,medical_visits_exams,other,483.2,medical_visit_6
+17937,100,9,11,Friday,21,28,25,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,300.0,cash_98
+17938,100,9,13,Sunday,5,6,6,outbound,CARD,Visa/Mastercard,transportation,car,fuel,80.0,fuel_196
+17939,100,9,18,Friday,17,51,51,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,211.2,personal_care_56
+17940,100,9,18,Friday,23,59,59,outbound,CARD,Visa/Mastercard,leisure,restaurants_takeaway_aperitifs,other,36.0,restaurants_takeaway_199
+17941,100,9,25,Friday,7,17,23,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17942,100,9,27,Sunday,16,38,38,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_196
+17943,100,10,1,Thursday,0,0,21,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2816.0,work_income_70
+17944,100,10,2,Friday,19,22,58,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7758.4,1141529
+17945,100,10,3,Saturday,23,21,16,outbound,OTHER,OTHER,taxes,other,other,13.76,taxes_1
+17946,100,10,5,Monday,16,47,47,outbound,CARD,Visa/Mastercard,shopping,accessories_jewelry,other,102.4,jewelry_16
+17947,100,10,8,Thursday,17,39,47,outbound,SDD,BACS,other_expenses,other,other,480.0,other_1
+17949,100,10,13,Tuesday,16,39,39,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,56.0,supermarket_groceries_73
+17948,100,10,13,Tuesday,23,53,47,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,57.82,electricity_gas_bill_10
+17951,100,10,15,Thursday,9,5,5,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,118.4,personal_care_56
+17950,100,10,15,Thursday,11,16,16,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,41.73,supermarket_groceries_169
+17952,100,10,16,Friday,9,7,7,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,33.92,supermarket_groceries_36
+17953,100,10,19,Monday,20,29,15,outbound,SDD,BACS,other_expenses,other,other,320.0,other_1
+17957,100,10,20,Tuesday,10,9,9,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,7.1,supermarket_groceries_36
+17955,100,10,20,Tuesday,18,1,34,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,94.24,electricity_gas_bill_10
+17956,100,10,20,Tuesday,18,48,48,outbound,WIRE TRANSFER,FPS,home,furniture_appliances,other,5185.6,furniture_18
+17954,100,10,20,Tuesday,21,30,25,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,114.64,electricity_gas_bill_10
+17958,100,10,22,Thursday,12,16,16,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,40.0,personal_care_52
+17959,100,10,26,Monday,0,9,41,outbound,SDD,BACS,commissions_bank_fees,other,other,25.6,bank_commission_1
+17960,100,10,26,Monday,14,6,7,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17965,100,10,29,Thursday,1,0,0,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,16.0,personal_care_100
+17964,100,10,29,Thursday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,16.0,personal_care_52
+17962,100,10,29,Thursday,17,16,2,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,16.0,other_1
+17961,100,10,29,Thursday,17,32,8,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,16.0,other_1
+17966,100,10,29,Thursday,18,50,50,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,27.2,personal_care_60
+17963,100,10,29,Thursday,20,2,54,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_61
+17968,100,11,2,Monday,0,0,27,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2814.4,work_income_70
+17967,100,11,2,Monday,18,37,22,outbound,SDD,BACS,other_expenses,other,other,352.0,other_1
+17969,100,11,4,Wednesday,16,49,53,outbound,SDD,BACS,other_expenses,other,other,32.0,other_1
+17970,100,11,5,Thursday,15,40,40,outbound,SDD,BACS,shopping,pets,other,80.0,pet_shop_98
+17971,100,11,8,Sunday,18,10,16,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_98
+17972,100,11,9,Monday,0,7,32,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1040.0,153331
+17973,100,11,10,Tuesday,14,31,31,outbound,CARD,Visa/Mastercard,shopping,clothing,other,48.0,clothing_92
+17974,100,11,11,Wednesday,17,30,15,outbound,CARD,Visa/Mastercard,financial_assets,cryptocurrency,purchase,478.08,cryptocurrency_exchange_1
+17975,100,11,11,Wednesday,18,51,51,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,160.0,personal_care_60
+17976,100,11,16,Monday,18,54,24,outbound,WIRE TRANSFER,FPS,transportation,other,other,5840.0,transportation_32
+17977,100,11,19,Thursday,19,41,17,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,36.8,electricity_gas_bill_10
+17978,100,11,19,Thursday,21,54,54,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_76
+17979,100,11,20,Friday,17,53,11,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_61
+17980,100,11,24,Tuesday,10,10,10,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,57.6,personal_care_55
+17981,100,11,25,Wednesday,19,31,27,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+17984,100,11,26,Thursday,9,4,4,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,48.0,personal_care_86
+17983,100,11,26,Thursday,12,19,19,outbound,CARD,Visa/Mastercard,shopping,clothing,other,182.24,clothing_41
+17982,100,11,26,Thursday,21,58,58,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,37.38,supermarket_groceries_73
+17986,100,11,27,Friday,13,19,44,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,532.0,785518
+17985,100,11,27,Friday,15,50,37,outbound,SDD,BACS,other_expenses,other,other,320.0,other_1
+17987,100,11,30,Monday,13,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,92.54,supermarket_groceries_198
+17988,100,12,1,Tuesday,0,0,14,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2918.4,work_income_70
+17989,100,12,2,Wednesday,16,2,19,outbound,CARD,Visa/Mastercard,health,hospitalizations_treatments,other,36.0,hospital_45
+17990,100,12,7,Monday,5,39,44,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,100.0,cash_61
+17991,100,12,11,Friday,0,0,0,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_76
+17994,100,12,14,Monday,12,17,17,outbound,CARD,Visa/Mastercard,shopping,clothing,other,22.37,clothing_92
+17993,100,12,14,Monday,14,27,27,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,30.02,supermarket_groceries_73
+17992,100,12,14,Monday,16,42,42,outbound,CARD,Visa/Mastercard,shopping,clothing,other,73.55,clothing_4
+17995,100,12,15,Tuesday,15,56,40,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,53.98,electricity_gas_bill_10
+17996,100,12,15,Tuesday,17,47,47,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,104.0,personal_care_60
+17997,100,12,16,Wednesday,19,48,48,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,34.35,supermarket_groceries_198
+17998,100,12,18,Friday,11,6,24,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,55.81,electricity_gas_bill_10
+18000,100,12,18,Friday,15,57,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,200.0,cash_98
+17999,100,12,18,Friday,23,27,4,outbound,SDD,BACS,utilities,domestic_utilities,electricity_gas_bill,71.82,electricity_gas_bill_10
+18001,100,12,19,Saturday,8,3,3,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,31.07,supermarket_groceries_198
+18003,100,12,21,Monday,0,0,35,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,5604.8,work_income_70
+18005,100,12,21,Monday,10,8,8,outbound,CARD,Visa/Mastercard,shopping,clothing,other,84.48,clothing_41
+18002,100,12,21,Monday,10,53,52,outbound,SDD,BACS,other_expenses,other,other,16.0,other_1
+18007,100,12,21,Monday,11,14,14,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,35.97,supermarket_groceries_169
+18004,100,12,21,Monday,12,21,21,outbound,CARD,Visa/Mastercard,shopping,accessories_jewelry,other,95.92,jewelry_16
+18006,100,12,21,Monday,18,51,51,outbound,CARD,Visa/Mastercard,shopping,clothing,other,31.98,clothing_4
+18008,100,12,22,Tuesday,11,13,13,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.4,supermarket_groceries_198
+18009,100,12,23,Wednesday,22,58,58,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,39.84,supermarket_groceries_36
+18010,100,12,28,Monday,16,32,41,outbound,SDD,BACS,utilities,phone_internet,other,57.6,phone_internet_1
+18011,100,12,30,Wednesday,11,11,11,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,39.15,supermarket_groceries_73
+165260,1000,1,23,Thursday,0,29,59,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.4398826213379605,bank_commission_1
+165261,1000,2,6,Thursday,0,12,55,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.119110496416972,bank_commission_1
+165423,1000,2,7,Friday,21,58,7,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,7.2,1002
+165263,1000,2,14,Friday,0,9,52,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.653996003218096,bank_commission_1
+165264,1000,2,15,Saturday,0,3,10,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165265,1000,3,1,Sunday,0,23,2,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165453,1000,3,1,Sunday,14,51,36,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2.5,1002
+165267,1000,3,19,Thursday,0,8,6,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.200724902188954,bank_commission_1
+165268,1000,4,1,Wednesday,0,5,18,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6397107963882163,bank_commission_1
+165269,1000,4,3,Friday,0,20,46,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165498,1000,4,3,Friday,21,5,8,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,27.1,1002
+165271,1000,4,22,Wednesday,0,23,57,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.031990630907249,bank_commission_1
+165272,1000,4,23,Thursday,0,24,40,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165273,1000,4,26,Sunday,0,20,24,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165274,1000,4,29,Wednesday,0,3,53,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.96,bank_commission_1
+165275,1000,4,29,Wednesday,0,26,4,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.564444625626577,bank_commission_1
+165276,1000,4,30,Thursday,0,6,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.4443436073398894,bank_commission_1
+165277,1000,5,3,Sunday,0,23,52,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.9485007317208565,bank_commission_1
+165278,1000,7,1,Wednesday,0,2,48,outbound,OTHER,OTHER,commissions_bank_fees,other,other,6.48,bank_commission_1
+165626,1000,7,1,Wednesday,1,14,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6.8,1002
+165280,1000,7,3,Friday,0,10,55,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.7550194705997,bank_commission_1
+165281,1000,7,29,Wednesday,0,6,44,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.9210918511923385,bank_commission_1
+165282,1000,8,26,Wednesday,0,13,33,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.7757948522761575,bank_commission_1
+165285,1000,9,14,Monday,0,1,35,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.371475801145353,bank_commission_1
+165284,1000,9,14,Monday,0,5,3,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165283,1000,9,14,Monday,0,22,3,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165752,1000,9,14,Monday,14,59,11,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,13.2,1002
+165287,1000,9,26,Saturday,0,3,12,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.400056026601517,bank_commission_1
+165288,1000,9,30,Wednesday,0,16,3,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.5217481477992716,bank_commission_1
+165802,1000,10,11,Sunday,16,30,56,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5.2,1002
+165290,1000,10,23,Friday,0,13,3,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.3220914573031575,bank_commission_1
+165291,1000,10,25,Sunday,0,20,21,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.207354235197453,bank_commission_1
+165292,1000,11,2,Monday,0,5,26,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.9314902895718578,bank_commission_1
+165842,1000,11,8,Sunday,11,44,13,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,18.2,1002
+165294,1000,11,9,Monday,0,14,41,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165295,1000,11,15,Sunday,0,9,58,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.999341495846484,bank_commission_1
+165296,1000,11,20,Friday,0,16,31,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.8367638811278835,bank_commission_1
+165298,1000,11,25,Wednesday,0,1,3,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.442285523789086,bank_commission_1
+165297,1000,11,25,Wednesday,0,14,20,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.6,bank_commission_1
+165299,1000,11,25,Wednesday,0,22,1,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.747007325165759,bank_commission_1
+165300,1000,12,26,Saturday,0,27,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.24026315790718,bank_commission_1
+1707587,10000,1,25,Saturday,0,15,5,outbound,OTHER,OTHER,commissions_bank_fees,other,other,5.994350708055421,bank_commission_1
+1707588,10000,2,6,Thursday,0,14,5,outbound,OTHER,OTHER,commissions_bank_fees,other,other,12.560808669894445,bank_commission_1
+1707688,10000,2,10,Monday,2,23,9,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,38.6,10001
+1707590,10000,2,23,Sunday,0,10,37,outbound,OTHER,OTHER,commissions_bank_fees,other,other,35.823807262262214,bank_commission_1
+1707742,10000,4,6,Monday,15,50,2,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,39.7,10001
+1707592,10000,4,21,Tuesday,0,2,32,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707593,10000,4,22,Wednesday,0,3,9,outbound,OTHER,OTHER,commissions_bank_fees,other,other,6.738592479249283,bank_commission_1
+1707594,10000,4,26,Sunday,0,17,15,outbound,OTHER,OTHER,commissions_bank_fees,other,other,31.171896127170335,bank_commission_1
+1707595,10000,5,2,Saturday,0,22,43,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.9,bank_commission_1
+1707764,10000,5,2,Saturday,16,18,55,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,6880.0,10001
+1707775,10000,5,11,Monday,20,19,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1512.0,10001
+1707598,10000,5,24,Sunday,0,7,42,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707599,10000,5,27,Wednesday,5,36,41,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707600,10000,5,27,Wednesday,18,51,53,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707601,10000,5,27,Wednesday,22,6,23,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,9000.0,financial_assets_managed_17
+1707603,10000,6,1,Monday,0,23,42,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707795,10000,6,1,Monday,4,56,4,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,189.6,10001
+1707602,10000,6,1,Monday,19,9,31,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,7200.0,financial_assets_managed_17
+1707605,10000,6,6,Saturday,0,16,41,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707606,10000,6,27,Saturday,0,2,22,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707608,10000,6,28,Sunday,9,18,44,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707607,10000,6,28,Sunday,11,43,0,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707840,10000,7,7,Tuesday,18,25,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2838.0,10001
+1707843,10000,7,10,Friday,11,15,43,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,4408.0,10001
+1707611,10000,7,19,Sunday,0,21,19,outbound,OTHER,OTHER,commissions_bank_fees,other,other,19.191124140708897,bank_commission_1
+1707612,10000,7,23,Thursday,14,51,43,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,6675.914779239625,financial_assets_managed_17
+1707613,10000,7,26,Sunday,14,28,19,outbound,WIRE TRANSFER,FPS,financial_assets,other,other,720.0,financial_assets_managed_17
+1707614,10000,7,27,Monday,0,12,38,outbound,OTHER,OTHER,commissions_bank_fees,other,other,6.3,bank_commission_1
+1707616,10000,7,28,Tuesday,14,1,11,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707615,10000,7,28,Tuesday,15,32,21,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707617,10000,8,1,Saturday,0,9,22,outbound,OTHER,OTHER,commissions_bank_fees,other,other,27.0,bank_commission_1
+1707618,10000,8,4,Tuesday,0,4,27,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707873,10000,8,9,Sunday,11,6,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,207.7,10001
+1707621,10000,8,27,Thursday,0,8,36,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707620,10000,8,27,Thursday,0,10,5,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707623,10000,8,30,Sunday,16,5,7,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707622,10000,8,30,Sunday,23,2,37,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707624,10000,9,1,Tuesday,0,8,28,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707898,10000,9,3,Thursday,0,12,20,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,333.4,10001
+1707900,10000,9,6,Sunday,4,55,28,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,302.0,10001
+1707626,10000,9,6,Sunday,20,15,28,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,270.0,financial_assets_managed_17
+1707628,10000,9,8,Tuesday,19,46,33,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,270.0,financial_assets_managed_17
+1707629,10000,9,22,Tuesday,0,9,31,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.614130829763922,bank_commission_1
+1707630,10000,9,27,Sunday,0,3,12,outbound,OTHER,OTHER,commissions_bank_fees,other,other,6.3,bank_commission_1
+1707631,10000,9,27,Sunday,0,28,34,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.87509181685246,bank_commission_1
+1707632,10000,9,28,Monday,11,24,25,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707633,10000,10,1,Thursday,0,19,5,outbound,OTHER,OTHER,commissions_bank_fees,other,other,10.265053659561385,bank_commission_1
+1707634,10000,10,1,Thursday,0,21,6,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707635,10000,10,4,Sunday,0,9,50,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.0795791264807733,bank_commission_1
+1707636,10000,10,5,Monday,0,24,32,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707930,10000,10,5,Monday,21,21,12,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,461.4,10001
+1707638,10000,10,8,Thursday,11,48,18,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,270.0,financial_assets_managed_17
+1707639,10000,10,16,Friday,0,8,42,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707640,10000,10,17,Saturday,0,6,33,outbound,OTHER,OTHER,commissions_bank_fees,other,other,26.275758346914408,bank_commission_1
+1707642,10000,10,28,Wednesday,20,12,50,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707641,10000,10,28,Wednesday,22,39,34,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707643,10000,11,9,Monday,14,17,41,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,270.0,financial_assets_managed_17
+1707969,10000,11,15,Sunday,7,41,52,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5692.0,10001
+1707645,10000,11,22,Sunday,0,16,43,outbound,OTHER,OTHER,commissions_bank_fees,other,other,6.982021050515774,bank_commission_1
+1707646,10000,11,23,Monday,11,46,53,outbound,WIRE TRANSFER,FPS,financial_assets,other,other,6300.0,financial_assets_managed_17
+1707647,10000,11,30,Monday,17,43,12,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707996,10000,12,1,Tuesday,8,30,50,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,595.0,10001
+1708001,10000,12,8,Tuesday,4,10,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,415.3,10001
+1707650,10000,12,9,Wednesday,14,35,17,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,270.0,financial_assets_managed_17
+1707651,10000,12,14,Monday,23,22,36,outbound,WIRE TRANSFER,FPS,financial_assets,other,other,900.0,financial_assets_managed_17
+1707652,10000,12,16,Wednesday,0,20,21,outbound,OTHER,OTHER,commissions_bank_fees,other,other,0.45,bank_commission_1
+1707653,10000,12,27,Sunday,0,1,4,outbound,OTHER,OTHER,commissions_bank_fees,other,other,10.357117039200151,bank_commission_1
+1707655,10000,12,28,Monday,3,42,11,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+1707654,10000,12,28,Monday,12,18,31,outbound,OTHER,OTHER,financial_assets,managed_fund,sale,90.0,financial_assets_managed_17
+17020427,100000,1,27,Monday,0,28,6,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.14,bank_commission_1
+17020428,100000,2,7,Friday,0,24,5,outbound,OTHER,OTHER,commissions_bank_fees,other,other,2.6978668924099916,bank_commission_1
+17020429,100000,2,8,Saturday,0,14,12,outbound,OTHER,OTHER,commissions_bank_fees,other,other,1.57,bank_commission_1
+17020474,100000,2,12,Wednesday,16,42,20,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,5.7,100001
+17020431,100000,2,20,Thursday,0,20,12,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.046484760440913,bank_commission_1
+17020480,100000,3,1,Sunday,21,31,26,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1.4,100001
+17020433,100000,3,5,Thursday,0,6,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,13.415265002621705,bank_commission_1
+17020434,100000,3,7,Saturday,0,4,48,outbound,OTHER,OTHER,commissions_bank_fees,other,other,1.57,bank_commission_1
+17020435,100000,4,5,Sunday,0,12,59,outbound,OTHER,OTHER,commissions_bank_fees,other,other,1.57,bank_commission_1
+17020508,100000,5,2,Saturday,10,23,42,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,3.8,100001
+17020437,100000,5,3,Sunday,0,16,44,outbound,OTHER,OTHER,commissions_bank_fees,other,other,20.66955778408198,bank_commission_1
+17020438,100000,5,14,Thursday,0,7,32,outbound,OTHER,OTHER,commissions_bank_fees,other,other,4.150726124672631,bank_commission_1
+17020439,100000,6,30,Tuesday,0,21,11,outbound,OTHER,OTHER,commissions_bank_fees,other,other,22.42,bank_commission_1
+17020440,100000,7,1,Wednesday,0,2,39,outbound,OTHER,OTHER,commissions_bank_fees,other,other,14.82,bank_commission_1
+17020441,100000,7,7,Tuesday,0,26,31,outbound,OTHER,OTHER,commissions_bank_fees,other,other,19.81947496864049,bank_commission_1
+17020573,100000,7,8,Wednesday,19,18,52,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,19.6,100001
+17020443,100000,8,1,Saturday,0,1,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,13.840102022260783,bank_commission_1
+17020581,100000,8,3,Monday,5,31,17,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,43.2,100001
+17020445,100000,8,5,Wednesday,0,2,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,18.653023493014548,bank_commission_1
+17020446,100000,8,6,Thursday,0,22,56,outbound,OTHER,OTHER,commissions_bank_fees,other,other,25.118942775413537,bank_commission_1
+17020447,100000,10,1,Thursday,0,26,50,outbound,OTHER,OTHER,commissions_bank_fees,other,other,1.57,bank_commission_1
+170008901,1000000,1,3,Friday,0,0,14,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008902,1000000,1,8,Wednesday,12,27,2,outbound,OTHER,OTHER,taxes,other,other,8.62,taxes_1
+170008903,1000000,1,14,Tuesday,18,13,26,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,20.0,889669
+170008904,1000000,1,15,Wednesday,14,11,2,outbound,OTHER,OTHER,other_expenses,other,other,69.3,other_1
+170008905,1000000,1,23,Thursday,14,27,27,outbound,CARD,Visa/Mastercard,shopping,clothing,other,170.0,clothing_4
+170008906,1000000,1,23,Thursday,22,57,57,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,59.5,pharmacy_53
+170008907,1000000,1,28,Tuesday,15,34,46,outbound,SDD,BACS,leisure,television,other,55.9,television_3
+170008908,1000000,1,31,Friday,0,0,2,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008909,1000000,1,31,Friday,11,10,10,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,64.8,pharmacy_53
+170008910,1000000,2,5,Wednesday,0,0,11,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008911,1000000,2,5,Wednesday,11,8,8,outbound,CARD,Visa/Mastercard,shopping,personal_care,hairdresser_beautician,85.5,personal_care_86
+170008912,1000000,2,17,Monday,15,16,34,outbound,OTHER,OTHER,other_expenses,other,other,1125.0,other_1
+170008913,1000000,2,21,Friday,12,20,20,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,98.0,pharmacy_57
+170008914,1000000,2,24,Monday,19,46,46,outbound,CARD,Visa/Mastercard,leisure,restaurants_takeaway_aperitifs,other,30.0,restaurants_takeaway_97
+170008916,1000000,2,28,Friday,0,0,20,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008915,1000000,2,28,Friday,9,15,28,outbound,SDD,BACS,leisure,television,other,55.9,television_3
+170008917,1000000,3,6,Friday,20,34,12,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,56.3,330507
+170008918,1000000,3,9,Monday,20,55,55,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,73.69,pharmacy_57
+170008919,1000000,3,11,Wednesday,11,7,29,outbound,SDD,BACS,other_expenses,other,other,500.0,other_1
+170008920,1000000,3,16,Monday,19,7,46,outbound,OTHER,OTHER,other_expenses,other,other,716.6,other_1
+170008921,1000000,3,18,Wednesday,8,16,6,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,80.0,889669
+170008922,1000000,3,27,Friday,14,17,50,outbound,SDD,BACS,leisure,television,other,55.9,television_3
+170008923,1000000,3,31,Tuesday,0,0,43,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008924,1000000,4,1,Wednesday,0,14,27,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.0,bank_commission_1
+170008925,1000000,4,2,Thursday,7,20,20,outbound,OTHER,OTHER,taxes,other,other,8.5,taxes_1
+170008926,1000000,4,3,Friday,14,17,51,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,500.0,cash_23
+170008927,1000000,4,10,Friday,14,6,14,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,68.0,330507
+170008928,1000000,4,14,Tuesday,18,16,36,outbound,SDD,BACS,other_expenses,other,other,1000.0,other_1
+170008929,1000000,4,15,Wednesday,18,27,9,outbound,OTHER,OTHER,other_expenses,other,other,539.1,other_1
+170008930,1000000,4,16,Thursday,15,1,33,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,32.0,889669
+170008931,1000000,4,21,Tuesday,15,52,48,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,200.0,230965
+170008932,1000000,4,28,Tuesday,18,37,17,outbound,SDD,BACS,leisure,television,other,54.9,television_3
+170008933,1000000,4,30,Thursday,0,0,27,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1189.0,work_income_62
+170008934,1000000,5,5,Tuesday,20,50,2,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,50.0,1754136
+170008935,1000000,5,8,Friday,17,48,7,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,16.0,889669
+170008936,1000000,5,13,Wednesday,17,9,22,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,100.0,340201
+170008937,1000000,5,15,Friday,11,53,43,outbound,OTHER,OTHER,other_expenses,other,other,75.3,other_1
+170008939,1000000,5,20,Wednesday,11,44,43,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,140.0,1691325
+170008938,1000000,5,20,Wednesday,17,56,31,outbound,WIRE TRANSFER,FPS,professional_services,other,other,34.08,professional_services_171
+170008940,1000000,5,28,Thursday,16,32,46,outbound,SDD,BACS,leisure,television,other,33.0,television_7
+170008941,1000000,5,28,Thursday,17,43,32,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,2000.0,1108237
+170008942,1000000,5,29,Friday,0,0,7,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1245.0,work_income_62
+170008943,1000000,6,4,Thursday,18,9,45,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,245.0,724463
+170008944,1000000,6,10,Wednesday,8,57,12,outbound,SDD,BACS,other_expenses,other,other,500.0,other_1
+170008945,1000000,6,15,Monday,19,35,13,outbound,OTHER,OTHER,other_expenses,other,other,1475.0,other_1
+170008946,1000000,6,16,Tuesday,12,32,44,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,30.0,1754136
+170008947,1000000,6,29,Monday,12,36,23,outbound,SDD,BACS,leisure,television,other,53.9,television_3
+170008949,1000000,6,30,Tuesday,0,0,0,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170008948,1000000,6,30,Tuesday,16,35,30,outbound,SDD,BACS,other_expenses,other,other,1200.0,other_1
+170008950,1000000,7,1,Wednesday,0,26,47,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.0,bank_commission_1
+170008951,1000000,7,2,Thursday,19,18,14,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,52.52,230965
+170008952,1000000,7,10,Friday,20,7,47,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,78.5,230965
+170008954,1000000,7,15,Wednesday,15,44,54,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,122.3,foreign_10
+170008953,1000000,7,15,Wednesday,18,45,58,outbound,OTHER,OTHER,other_expenses,other,other,736.7,other_1
+170008955,1000000,7,28,Tuesday,17,24,27,outbound,SDD,BACS,leisure,television,other,53.9,television_7
+170008956,1000000,7,31,Friday,0,0,43,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170008957,1000000,8,1,Saturday,3,35,35,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,76.5,foreign_10
+170008959,1000000,8,3,Monday,9,58,51,outbound,WIRE TRANSFER,FPS,professional_services,other,other,17.39,professional_services_117
+170008958,1000000,8,3,Monday,19,42,40,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,13.99,87459
+170008960,1000000,8,13,Thursday,14,36,36,outbound,WIRE TRANSFER,FPS,leisure,sports,other,40.0,sports_15
+170008961,1000000,8,17,Monday,16,48,33,outbound,OTHER,OTHER,other_expenses,other,other,360.5,other_1
+170008962,1000000,8,20,Thursday,18,32,53,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,302.0,340201
+170008963,1000000,8,24,Monday,9,30,42,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,51.0,159018
+170008964,1000000,8,28,Friday,18,42,18,outbound,SDD,BACS,leisure,television,other,53.9,television_7
+170008966,1000000,8,31,Monday,0,0,48,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170008967,1000000,8,31,Monday,7,1,1,outbound,WIRE TRANSFER,FPS,leisure,sports,other,30.0,sports_68
+170008965,1000000,8,31,Monday,19,2,49,outbound,SDD,BACS,other_expenses,other,other,500.0,other_1
+170008968,1000000,9,1,Tuesday,0,50,14,outbound,FOREIGN WIRE TRANSFER,CHAPS,other_expenses,other,other,126.2,foreign_10
+170008969,1000000,9,2,Wednesday,16,31,26,outbound,OTHER,OTHER,other_expenses,other,other,250.0,other_1
+170008970,1000000,9,10,Thursday,16,28,58,outbound,OTHER,OTHER,other_expenses,other,other,500.0,other_1
+170008971,1000000,9,14,Monday,13,32,32,outbound,SDD,BACS,other_expenses,other,other,200.0,other_1
+170008972,1000000,9,14,Monday,17,11,23,outbound,WIRE TRANSFER,FPS,professional_services,other,other,50.0,professional_services_117
+170008973,1000000,9,14,Monday,23,7,10,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,100.0,1168271
+170008974,1000000,9,15,Tuesday,15,14,19,outbound,OTHER,OTHER,other_expenses,other,other,597.9,other_1
+170008975,1000000,9,28,Monday,8,0,5,outbound,SDD,BACS,leisure,television,other,53.9,television_7
+170008976,1000000,9,28,Monday,12,3,9,outbound,OTHER,OTHER,other_expenses,other,other,1000.0,other_1
+170008978,1000000,9,28,Monday,14,37,51,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,52.4,230965
+170008977,1000000,9,28,Monday,18,7,25,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,114.3,87459
+170008979,1000000,9,30,Wednesday,0,0,0,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170008980,1000000,10,1,Thursday,0,22,21,outbound,OTHER,OTHER,commissions_bank_fees,other,other,3.0,bank_commission_1
+170008981,1000000,10,3,Saturday,20,44,7,outbound,OTHER,OTHER,taxes,other,other,8.6,taxes_1
+170008982,1000000,10,6,Tuesday,7,10,47,outbound,WIRE TRANSFER,FPS,travel,other,other,48.0,travel_36
+170008983,1000000,10,6,Tuesday,20,34,36,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,100.0,414956
+170008984,1000000,10,7,Wednesday,22,22,34,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,11.2,340201
+170008986,1000000,10,14,Wednesday,9,29,33,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,22.0,1108237
+170008985,1000000,10,14,Wednesday,18,14,43,outbound,WIRE TRANSFER,FPS,home,renovations_installations,other,379.0,renovations_7
+170008987,1000000,10,15,Thursday,12,21,8,outbound,OTHER,OTHER,other_expenses,other,other,433.0,other_1
+170008988,1000000,10,28,Wednesday,12,21,14,outbound,SDD,BACS,leisure,television,other,53.9,television_7
+170008989,1000000,10,29,Thursday,14,17,33,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,164.2,520448
+170008990,1000000,10,30,Friday,0,0,47,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170008992,1000000,11,2,Monday,10,34,3,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,49.6,330507
+170008991,1000000,11,2,Monday,14,43,19,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,67.3,733224
+170008993,1000000,11,3,Tuesday,18,0,42,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,264.5,159018
+170008994,1000000,11,16,Monday,8,0,55,outbound,OTHER,OTHER,other_expenses,other,other,1103.0,other_1
+170008995,1000000,11,17,Tuesday,17,45,27,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,287.4,1168271
+170008998,1000000,11,25,Wednesday,9,23,37,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,79.5,724463
+170008996,1000000,11,25,Wednesday,12,27,34,outbound,WIRE TRANSFER,FPS,home,renovations_installations,other,220.0,renovations_7
+170008997,1000000,11,25,Wednesday,22,30,54,outbound,WIRE TRANSFER,FPS,transportation,other,other,102.0,transportation_44
+170008999,1000000,11,27,Friday,9,24,37,outbound,SDD,BACS,leisure,television,other,53.9,television_3
+170009000,1000000,11,30,Monday,0,0,44,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170009001,1000000,11,30,Monday,18,27,34,outbound,WIRE TRANSFER,FPS,home,condominium,other,548.7,condominium_1
+170009002,1000000,12,8,Tuesday,19,49,5,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,119.9,330507
+170009004,1000000,12,10,Thursday,7,27,20,outbound,WIRE TRANSFER,FPS,transportation,other,other,344.0,transportation_42
+170009003,1000000,12,10,Thursday,21,3,9,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,25.89,889669
+170009006,1000000,12,15,Tuesday,0,0,27,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1170.0,work_income_62
+170009005,1000000,12,15,Tuesday,17,40,17,outbound,OTHER,OTHER,other_expenses,other,other,359.7,other_1
+170009007,1000000,12,16,Wednesday,13,2,19,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,70.94,414956
+170009008,1000000,12,24,Thursday,16,29,40,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,20.0,87459
+170009009,1000000,12,28,Monday,8,33,27,outbound,SDD,BACS,leisure,television,other,42.27,television_7
+170009011,1000000,12,29,Tuesday,17,18,11,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,60.0,1088680
+170009010,1000000,12,29,Tuesday,17,33,50,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,52.98,330507
+170009012,1000000,12,31,Thursday,0,0,49,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,1171.0,work_income_62
+170009033,1000001,1,30,Thursday,21,17,55,outbound,SDD,BACS,other_expenses,other,other,47.07203414262838,other_1
+170009034,1000001,2,1,Saturday,8,2,2,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,37.37262998367539,supermarket_groceries_7
+170009035,1000001,2,2,Sunday,18,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,49.34,supermarket_groceries_104
+170009193,1000001,2,3,Monday,10,51,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1181.0,1000003
+170009037,1000001,2,6,Thursday,15,22,32,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,790.2204781855626,1574170
+170009038,1000001,2,9,Sunday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,27.71,supermarket_groceries_104
+170009039,1000001,2,12,Wednesday,19,41,44,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,100.0,cash_63
+170009040,1000001,2,13,Thursday,13,21,21,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,44.68133807608244,supermarket_groceries_104
+170009041,1000001,2,17,Monday,17,41,41,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,36.69,supermarket_groceries_78
+170009042,1000001,2,26,Wednesday,9,5,5,outbound,CARD,Visa/Mastercard,shopping,clothing,other,18.606036095686672,clothing_36
+170009214,1000001,3,1,Sunday,13,56,36,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,122.2,1000003
+170009043,1000001,3,1,Sunday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,81.2,supermarket_groceries_104
+170009044,1000001,3,1,Sunday,17,37,37,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,31.97,pharmacy_43
+170009046,1000001,3,10,Tuesday,12,27,27,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_191
+170009047,1000001,3,20,Friday,9,15,15,outbound,CARD,Visa/Mastercard,transportation,car,fuel,40.0,fuel_53
+170009048,1000001,4,1,Wednesday,0,27,36,outbound,OTHER,OTHER,commissions_bank_fees,other,other,16.32,bank_commission_1
+170009049,1000001,4,1,Wednesday,12,16,16,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,42.69,supermarket_groceries_181
+170009050,1000001,4,1,Wednesday,18,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,51.69699762525087,supermarket_groceries_40
+170009051,1000001,4,7,Tuesday,18,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,34.08664489398988,supermarket_groceries_78
+170009052,1000001,4,9,Thursday,0,3,34,outbound,OTHER,OTHER,commissions_bank_fees,other,other,9.592909941567012,bank_commission_1
+170009053,1000001,4,12,Sunday,8,23,59,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+170009242,1000001,4,17,Friday,0,40,2,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,770.0,1000003
+170009054,1000001,4,17,Friday,17,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,11.2,supermarket_groceries_104
+170009056,1000001,4,26,Sunday,15,46,50,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,309.6817181308437,cash_75
+170009057,1000001,4,29,Wednesday,9,6,6,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,57.12,supermarket_groceries_40
+170009058,1000001,4,30,Thursday,12,27,27,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_53
+170009254,1000001,5,4,Monday,3,34,54,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,299.3,1000003
+170009060,1000001,5,5,Tuesday,21,56,56,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,25.04,pharmacy_24
+170009061,1000001,5,15,Friday,15,29,29,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,49.41,supermarket_groceries_40
+170009062,1000001,5,15,Friday,18,47,47,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,46.011662078325564,supermarket_groceries_187
+170009063,1000001,5,19,Tuesday,17,41,41,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,42.46,supermarket_groceries_7
+170009064,1000001,5,24,Sunday,16,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.2,supermarket_groceries_181
+170009065,1000001,5,26,Tuesday,6,1,1,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,35.63,supermarket_groceries_181
+170009066,1000001,5,29,Friday,18,53,53,outbound,CARD,Visa/Mastercard,shopping,other,other,28.72,online_shopping_12
+170009067,1000001,5,29,Friday,19,51,51,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,29.361895744571488,supermarket_groceries_104
+170009068,1000001,6,6,Saturday,1,1,1,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_53
+170009069,1000001,6,8,Monday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,clothing,other,25.76,clothing_72
+170009070,1000001,6,11,Thursday,13,25,25,outbound,CARD,Visa/Mastercard,shopping,clothing,other,86.20984624249219,clothing_36
+170009071,1000001,6,14,Sunday,12,24,24,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_53
+170009283,1000001,6,15,Monday,11,37,10,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,407.8,1000003
+170009073,1000001,6,18,Thursday,18,52,52,outbound,CARD,Visa/Mastercard,shopping,other,other,102.03604583098628,online_shopping_12
+170009074,1000001,6,24,Wednesday,20,53,53,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,19.09,supermarket_groceries_78
+170009075,1000001,6,27,Saturday,16,40,40,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_36
+170009076,1000001,6,30,Tuesday,21,57,57,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,55.650198815542936,supermarket_groceries_141
+170009077,1000001,7,2,Thursday,13,24,24,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,88.30893272205265,pharmacy_43
+170009078,1000001,7,7,Tuesday,11,14,14,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.75271410819621,supermarket_groceries_181
+170009081,1000001,7,15,Wednesday,0,17,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,30.143880575825854,bank_commission_1
+170009080,1000001,7,15,Wednesday,13,21,21,outbound,CARD,Visa/Mastercard,shopping,other,other,125.33825903770745,online_shopping_12
+170009079,1000001,7,15,Wednesday,20,53,53,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009321,1000001,7,16,Thursday,0,12,4,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,326.9,1000003
+170009082,1000001,7,16,Thursday,15,32,32,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,17.30697314083849,supermarket_groceries_181
+170009084,1000001,7,18,Saturday,11,10,10,outbound,CARD,Visa/Mastercard,shopping,clothing,other,26.85,clothing_36
+170009085,1000001,7,19,Sunday,13,20,20,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,15.65,supermarket_groceries_187
+170009327,1000001,7,23,Thursday,10,6,51,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,182.6,1000003
+170009087,1000001,7,30,Thursday,16,18,19,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+170009088,1000001,7,31,Friday,17,43,43,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_36
+170009089,1000001,8,1,Saturday,20,41,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_75
+170009092,1000001,8,6,Thursday,8,29,52,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,1500.0,cash_75
+170009090,1000001,8,6,Thursday,10,20,20,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009091,1000001,8,6,Thursday,12,15,15,outbound,CARD,Visa/Mastercard,shopping,clothing,other,3.825149778488587,clothing_72
+170009093,1000001,8,7,Friday,17,41,41,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,14.96,supermarket_groceries_78
+170009094,1000001,8,8,Saturday,17,40,40,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,36.75,supermarket_groceries_104
+170009344,1000001,8,8,Saturday,22,43,48,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1898.0,1000003
+170009096,1000001,8,10,Monday,15,32,32,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,18.85,supermarket_groceries_78
+170009097,1000001,8,10,Monday,21,55,55,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_36
+170009347,1000001,8,12,Wednesday,23,58,48,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,109.1,1000003
+170009099,1000001,8,13,Thursday,20,34,17,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1600.0,1762310
+170009350,1000001,8,13,Thursday,21,0,2,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1142.0,1000003
+170009101,1000001,8,15,Saturday,13,30,30,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009102,1000001,8,16,Sunday,14,31,31,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,57.46,supermarket_groceries_187
+170009104,1000001,8,20,Thursday,16,41,41,outbound,CARD,Visa/Mastercard,shopping,clothing,other,39.84,clothing_25
+170009103,1000001,8,20,Thursday,16,41,41,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009107,1000001,8,22,Saturday,16,36,36,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,71.90186620059268,supermarket_groceries_104
+170009105,1000001,8,22,Saturday,19,48,48,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,12.43,supermarket_groceries_187
+170009106,1000001,8,22,Saturday,22,58,58,outbound,CARD,Visa/Mastercard,transportation,car,fuel,48.0,fuel_36
+170009108,1000001,8,29,Saturday,10,8,8,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,80.0,supermarket_groceries_141
+170009109,1000001,9,3,Thursday,22,58,58,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009110,1000001,9,7,Monday,18,51,51,outbound,CARD,Visa/Mastercard,shopping,clothing,other,66.00527092582797,clothing_72
+170009111,1000001,9,8,Tuesday,16,39,39,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,59.6,supermarket_groceries_187
+170009113,1000001,9,10,Thursday,4,0,0,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,45.830640040988,supermarket_groceries_7
+170009112,1000001,9,10,Thursday,12,19,19,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.67,supermarket_groceries_78
+170009114,1000001,9,14,Monday,11,12,12,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,29.63,supermarket_groceries_104
+170009115,1000001,9,15,Tuesday,17,49,49,outbound,CARD,Visa/Mastercard,shopping,clothing,other,58.4,clothing_25
+170009116,1000001,9,16,Wednesday,15,37,37,outbound,CARD,Visa/Mastercard,shopping,clothing,other,66.29,clothing_36
+170009406,1000001,9,18,Friday,0,26,48,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,751.0,1000003
+170009117,1000001,9,18,Friday,15,36,36,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009119,1000001,9,23,Wednesday,3,0,0,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,45.90676519912417,supermarket_groceries_141
+170009120,1000001,9,24,Thursday,13,22,22,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,57.6,supermarket_groceries_78
+170009121,1000001,9,25,Friday,12,2,22,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,322.89647647924016,cash_75
+170009122,1000001,9,26,Saturday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,59.46,supermarket_groceries_7
+170009123,1000001,9,29,Tuesday,12,19,19,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,27.89,supermarket_groceries_7
+170009124,1000001,10,6,Tuesday,12,19,19,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,32.06,supermarket_groceries_187
+170009125,1000001,10,12,Monday,16,36,36,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.63,supermarket_groceries_104
+170009126,1000001,10,13,Tuesday,0,14,10,outbound,OTHER,OTHER,commissions_bank_fees,other,other,8.3019364600915,bank_commission_1
+170009127,1000001,10,14,Wednesday,21,56,56,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,38.35,supermarket_groceries_187
+170009442,1000001,10,15,Thursday,2,43,38,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,661.0,1000003
+170009129,1000001,10,15,Thursday,15,55,39,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,142.50826777305338,cash_75
+170009128,1000001,10,15,Thursday,21,38,1,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,184.48,1762310
+170009132,1000001,10,16,Friday,9,4,4,outbound,CARD,Visa/Mastercard,shopping,other,other,3.2,online_shopping_12
+170009131,1000001,10,16,Friday,16,39,56,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_75
+170009133,1000001,10,18,Sunday,9,3,3,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,36.77,supermarket_groceries_141
+170009134,1000001,10,22,Thursday,20,54,54,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,23.62,supermarket_groceries_7
+170009135,1000001,10,23,Friday,7,1,1,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,24.64,supermarket_groceries_187
+170009136,1000001,10,27,Tuesday,18,49,49,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,33.49,supermarket_groceries_78
+170009137,1000001,10,29,Thursday,16,39,39,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,9.284581857513082,pharmacy_45
+170009138,1000001,10,30,Friday,17,45,45,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009139,1000001,11,4,Wednesday,8,3,3,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,44.45,supermarket_groceries_78
+170009140,1000001,11,4,Wednesday,11,15,15,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,41.90145871124856,supermarket_groceries_187
+170009141,1000001,11,6,Friday,14,9,13,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_75
+170009467,1000001,11,10,Tuesday,15,4,4,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,68.2,1000003
+170009143,1000001,11,12,Thursday,1,0,0,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,27.42,supermarket_groceries_7
+170009144,1000001,11,12,Thursday,4,0,0,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,73.29458012512603,supermarket_groceries_7
+170009145,1000001,11,12,Thursday,14,51,7,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,216.81526366225071,cash_75
+170009472,1000001,11,13,Friday,14,43,47,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,688.0,1000003
+170009147,1000001,11,15,Sunday,14,31,31,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,40.93,supermarket_groceries_7
+170009148,1000001,11,24,Tuesday,17,43,43,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,30.663195676903527,supermarket_groceries_104
+170009149,1000001,11,28,Saturday,8,12,12,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009150,1000001,11,30,Monday,16,40,40,outbound,CARD,Visa/Mastercard,shopping,clothing,other,114.48353129428557,clothing_36
+170009152,1000001,12,2,Wednesday,6,1,1,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,11.312738990241982,supermarket_groceries_7
+170009153,1000001,12,2,Wednesday,10,9,9,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,43.67375368566293,supermarket_groceries_104
+170009151,1000001,12,2,Wednesday,19,51,51,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,48.13,supermarket_groceries_104
+170009154,1000001,12,7,Monday,17,44,44,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,56.34,supermarket_groceries_104
+170009155,1000001,12,11,Friday,8,2,2,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,55.84,supermarket_groceries_104
+170009156,1000001,12,11,Friday,16,39,39,outbound,CARD,Visa/Mastercard,shopping,other,other,47.84,online_shopping_12
+170009157,1000001,12,13,Sunday,14,30,30,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,18.56,supermarket_groceries_78
+170009158,1000001,12,22,Tuesday,8,4,4,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,53.686619482848805,supermarket_groceries_78
+170009159,1000001,12,22,Tuesday,12,21,21,outbound,CARD,Visa/Mastercard,shopping,clothing,other,3.2,clothing_36
+170009521,1000001,12,23,Wednesday,18,49,24,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,547.0,1000003
+170009160,1000001,12,23,Wednesday,23,59,59,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.21053828730798,supermarket_groceries_104
+170009162,1000001,12,26,Saturday,10,11,11,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,64.15804844787314,supermarket_groceries_78
+170009163,1000001,12,30,Wednesday,18,45,45,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,77.55815718940488,supermarket_groceries_104
+170009164,1000001,12,31,Thursday,8,3,3,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,25.49,supermarket_groceries_7
+170009165,1000002,7,1,Wednesday,0,18,57,outbound,OTHER,OTHER,commissions_bank_fees,other,other,12.54,bank_commission_1
+170009167,1000002,10,1,Thursday,0,2,25,outbound,OTHER,OTHER,commissions_bank_fees,other,other,1.67,bank_commission_1
+170009166,1000002,10,1,Thursday,0,23,25,outbound,OTHER,OTHER,commissions_bank_fees,other,other,12.54,bank_commission_1
+170009427,1000002,10,4,Sunday,11,9,25,inbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,14.4,1000003
+170009169,1000002,10,15,Thursday,0,14,14,outbound,OTHER,OTHER,commissions_bank_fees,other,other,13.33074930438182,bank_commission_1
+170009170,1000003,1,2,Thursday,10,50,37,outbound,OTHER,OTHER,transportation,car,highway_tolls,5.76,highway_tolls_1
+170009172,1000003,1,4,Saturday,13,23,23,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,43.65,supermarket_groceries_42
+170009171,1000003,1,4,Saturday,19,7,35,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,320.0,957618
+170009174,1000003,1,5,Sunday,9,0,12,outbound,OTHER,OTHER,taxes,other,other,13.76,taxes_1
+170009173,1000003,1,5,Sunday,17,30,28,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+170009175,1000003,1,7,Tuesday,17,21,3,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_104
+170009176,1000003,1,8,Wednesday,0,0,44,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,4918.4,work_income_25
+170009178,1000003,1,15,Wednesday,13,33,33,outbound,CARD,Visa/Mastercard,health,medical_visits_exams,other,112.0,medical_visit_44
+170009177,1000003,1,15,Wednesday,15,1,49,inbound,OTHER,OTHER,income,other_income,other_uncategorized_income,112.0,other_1
+170009179,1000003,1,16,Thursday,14,35,35,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_36
+170009180,1000003,1,16,Thursday,18,52,52,outbound,CARD,Visa/Mastercard,home,other,other,54.24,furniture_2
+170009181,1000003,1,19,Sunday,8,51,32,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,576.0,149245
+170009182,1000003,1,20,Monday,7,6,22,outbound,SDD,BACS,loans_financing,financing,other,59.76,financing_1
+170009183,1000003,1,20,Monday,9,9,9,outbound,CARD,Visa/Mastercard,health,medical_visits_exams,other,51.04,medical_visit_44
+170009184,1000003,1,22,Wednesday,12,19,19,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,26.72,supermarket_groceries_25
+170009185,1000003,1,23,Thursday,10,5,5,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,72.54,pharmacy_71
+170009187,1000003,1,23,Thursday,12,7,7,outbound,CARD,Visa/Mastercard,leisure,restaurants_takeaway_aperitifs,other,15.36,restaurants_takeaway_186
+170009186,1000003,1,23,Thursday,12,22,22,outbound,CARD,Visa/Mastercard,leisure,sports,other,52.77,sports_74
+170009188,1000003,1,26,Sunday,12,26,53,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,150.0,cash_71
+170009189,1000003,1,27,Monday,21,57,57,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,87.95,supermarket_groceries_5
+170009190,1000003,1,28,Tuesday,10,49,11,outbound,SDD,BACS,leisure,television,other,40.94,television_2
+170009191,1000003,1,29,Wednesday,11,14,43,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+170009192,1000003,2,1,Saturday,10,3,3,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,85.6,pharmacy_26
+170009193,1000003,2,3,Monday,10,51,16,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,1181.0,1000001
+170009194,1000003,2,4,Tuesday,23,59,59,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_82
+170009195,1000003,2,8,Saturday,17,25,32,outbound,SDD,BACS,other_expenses,other,other,240.0,other_1
+170009197,1000003,2,9,Sunday,0,0,46,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2321.6,work_income_25
+170009198,1000003,2,9,Sunday,15,34,34,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,69.6,gardening_12
+170009196,1000003,2,9,Sunday,18,54,54,outbound,SDD,BACS,utilities,domestic_utilities,multi_services,136.08,domestic_utilities_6
+170009200,1000003,2,10,Monday,10,19,19,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_150
+170009199,1000003,2,10,Monday,19,10,21,outbound,CARD,Visa/Mastercard,professional_services,other,other,112.0,professional_services_106
+170009201,1000003,2,11,Tuesday,15,54,47,outbound,CARD,Visa/Mastercard,professional_services,other,other,28.8,professional_services_106
+170009202,1000003,2,14,Friday,16,44,45,outbound,OTHER,OTHER,transportation,car,highway_tolls,6.7,highway_tolls_1
+170009203,1000003,2,17,Monday,12,25,25,outbound,CARD,Visa/Mastercard,leisure,sports,other,12.59,sports_38
+170009204,1000003,2,18,Tuesday,20,53,53,outbound,CARD,Visa/Mastercard,transportation,car,fuel,88.32,fuel_35
+170009205,1000003,2,19,Wednesday,22,7,13,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,576.0,149245
+170009208,1000003,2,22,Saturday,11,6,25,outbound,CARD,Visa/Mastercard,professional_services,public_administration_services,postal_services,120.0,public_administration_services_162
+170009206,1000003,2,22,Saturday,12,57,57,outbound,SDD,BACS,loans_financing,financing,other,59.76,financing_1
+170009207,1000003,2,22,Saturday,14,31,31,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,25.6,pharmacy_71
+170009210,1000003,2,23,Sunday,13,15,15,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,40.0,pharmacy_56
+170009209,1000003,2,23,Sunday,14,46,0,outbound,CARD,LINK,other_expenses,cash_withdrawal,other,100.0,cash_70
+170009211,1000003,2,26,Wednesday,12,49,15,outbound,SDD,BACS,leisure,television,other,40.94,television_2
+170009213,1000003,2,27,Thursday,15,35,35,outbound,CARD,Visa/Mastercard,shopping,clothing,other,23.98,clothing_23
+170009212,1000003,2,27,Thursday,16,41,41,outbound,CARD,Visa/Mastercard,transportation,car,fuel,64.0,fuel_35
+170009214,1000003,3,1,Sunday,13,56,31,outbound,WIRE TRANSFER,FPS,money_exchange_between_private_parties,other,other,122.2,1000001
+170009215,1000003,3,2,Monday,22,18,46,outbound,SDD,BACS,utilities,domestic_utilities,multi_services,65.57,domestic_utilities_6
+170009216,1000003,3,3,Tuesday,22,58,58,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_82
+170009217,1000003,3,9,Monday,0,0,13,inbound,WIRE TRANSFER,BACS,income,work_income,channeled_salary,2299.2,work_income_25
+170009218,1000003,3,13,Friday,19,23,43,outbound,CARD,Visa/Mastercard,professional_services,other,other,26.56,professional_services_106
+170009220,1000003,3,16,Monday,15,35,35,outbound,CARD,Visa/Mastercard,home,decorations_plants_garden,other,55.6,gardening_12
+170009219,1000003,3,16,Monday,19,50,50,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,68.56,supermarket_groceries_141
+170009221,1000003,3,18,Wednesday,15,30,30,outbound,CARD,Visa/Mastercard,groceries_expenses,supermarket_groceries,other,49.63,supermarket_groceries_25
+170009222,1000003,3,19,Thursday,11,9,46,outbound,SDD,BACS,other_expenses,other,other,160.0,other_1
+170009223,1000003,3,19,Thursday,17,42,31,outbound,WIRE TRANSFER,FPS,home,rent_paid,other,576.0,149245
+170009224,1000003,3,20,Friday,13,23,23,outbound,CARD,Visa/Mastercard,home,other,other,44.59,furniture_2
+170009226,1000003,3,22,Sunday,9,52,17,outbound,OTHER,OTHER,transportation,car,highway_tolls,4.48,highway_tolls_1
+170009227,1000003,3,22,Sunday,18,47,47,outbound,CARD,Visa/Mastercard,transportation,car,fuel,32.0,fuel_75
+170009225,1000003,3,22,Sunday,23,25,59,outbound,SDD,BACS,loans_financing,financing,other,59.76,financing_1
+170009228,1000003,3,25,Wednesday,14,25,25,outbound,CARD,Visa/Mastercard,health,medicines_parapharmacy,other,84.22,pharmacy_71

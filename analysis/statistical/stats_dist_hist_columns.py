@@ -3,24 +3,22 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-file_path = "../../_datasets/combined_dataset.parquet"
-df = pd.read_parquet(file_path)
+columns_to_plot = [
+    # 'month', 'day',
+    # 'hour'
+    # 'weekday', 'channel', 'payment_system',
+    # 'category_0', 'category_1', 'category_2', 'age',
+    # 'assigned_bank_type', 'assigned_bank',
+    # 'amount', 'initial_balance'
+    'source_prop_yn', 'target_prop_yn', 'laundering_yn'
+]
+
+file_path = "../../_datasets/combined_dataset_v0.2.parquet"
+df = pd.read_parquet(file_path, columns=columns_to_plot)
 print(df.dtypes)
 
-output_dir = "../_results/stats_dist_hist"
-os.makedirs(output_dir, exist_ok=True)
-
 # object → int
-df['age'] = pd.to_numeric(df['age'], errors='coerce')
-
-columns_to_plot = [
-    'month', 'day',
-    'hour'
-    'weekday', 'channel', 'payment_system',
-    'category_0', 'category_1', 'category_2', 'age',
-    'assigned_bank_type', 'assigned_bank',
-    'amount', 'initial_balance'
-]
+# df['age'] = pd.to_numeric(df['age'], errors='coerce')
 
 # laundering_yn=0: 307561470
 # laundering_yn=1: 35107
@@ -74,6 +72,9 @@ for column in columns_to_plot:
 
     plt.xlabel(column)
     plt.legend()
+
+    output_dir = "../_results/stats_dist_hist"
+    os.makedirs(output_dir, exist_ok=True)
 
     output_path = os.path.join(output_dir, f"{column}_dist.png")
     plt.tight_layout()

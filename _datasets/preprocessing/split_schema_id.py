@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-file_path = "../combined_dataset.parquet"
+file_path = "../combined_dataset_v0.1.parquet"
 df = pd.read_parquet(file_path)
 
 output_dir = "../laundering_schema_id"

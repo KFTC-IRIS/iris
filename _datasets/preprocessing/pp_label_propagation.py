@@ -45,22 +45,6 @@ def propagation_laundering_score(G, df, max_iter=10):
     end = time.time()
     print(f"save louvain communities, {end - start:.5f} sec")
 
-    # score 초기화 (score shape : {node: laundering_score (0~1)})
-    # laundering_score = {}
-    # for _, row in df.iterrows():
-    #     node_source = row["source"]
-    #     node_target = row["target"]
-    #     label = row["laundering_yn"]
-    #
-    #     if label == 1:
-    #         # 자금세탁거래에 포함된 노드(source/target)는 1로 확정
-    #         laundering_score[node_source] = 1
-    #         laundering_score[node_target] = 1
-    #     else:
-    #         # 자금세탁 이외 거래들에 포함된 노드는 0으로 설정 후 업데이트
-    #         laundering_score.setdefault(node_source, 0)
-    #         laundering_score.setdefault(node_target, 0)
-
     # 벡터 연산 기반으로 초기 laundering_score 설정
     start = time.time()
     laundering_score = {}
@@ -106,36 +90,6 @@ def propagation_laundering_score(G, df, max_iter=10):
         end = time.time()
         print(f'complete {i + 1} iter, {end - start:.5f} sec')
 
-    # for i in range(max_iter):
-    #     print(f'process {i + 1} iter ...')
-    #     start = time.time()
-    #
-    #     nodes = list(G.nodes())
-    #     random.shuffle(nodes)
-    #
-    #     for node in nodes:
-    #         # 자금세탁거래에 포함된 노드 제외
-    #         if laundering_score[node] == 1:
-    #             continue
-    #         neighbors = list(G.neighbors(node))
-    #         # 이웃이 없으면 제외
-    #         if not neighbors:
-    #             continue
-    #
-    #         # 이웃 노드의 laundering score 평균으로 업데이트
-    #         neighbor_scores = [laundering_score[n] for n in neighbors if n in laundering_score]
-    #         if not neighbor_scores:
-    #             continue  # 업데이트할 내용이 없으면 제외
-    #
-    #         # 업데이트
-    #         laundering_score[node] = sum(neighbor_scores) / len(neighbor_scores)
-    #
-    #     end = time.time()
-    #     print(f'complete {i + 1} iter, {end - start:.5f} sec')
-    #
-    # propagated_counts = Counter(round(score) for score in laundering_score.values())
-    # print(f"Propagated Laundering Labels Count:\n{propagated_counts}")
-
     return laundering_score
 
 
@@ -177,6 +131,7 @@ if __name__ == "__main__":
         end = time.time()
         print(f"complete to save {output_file}, {end - start:.5f} sec")
     else:
+        print('construct graph ...')
         start = time.time()
         G = create_graph(df)
         end = time.time()

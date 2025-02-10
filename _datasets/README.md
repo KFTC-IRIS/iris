@@ -10,6 +10,6 @@
 - combined_dataset_v0.12.parquet
   - v0.1 add column : source_between, target_between (between centrality)
 - combined_dataset_v0.13.parquet
-  - v0.1 add column : source_prop_yn, target_prop_yn (label propagation)
+  - v0.1 add column : source_laundering_score, target_laundering_score (label propagation)
 - combined_dataset_v0.2.parquet
   - v0.1 + v0.11 + v0.12 + v0.13
